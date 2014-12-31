@@ -6,7 +6,10 @@ common:
 exports:
 
   - query: "select * from URLS"
-    filename: "log_{{ISP_SHORT}}_{{RUN_NAME}}.json"
+    filename: "json/LOG_{{ISP_SHORT}}_{{RUN_NAME}}.json"
     format: json
 
+  - query: "select * from URLS"
+    filename: "csv/LOG_{{ISP_SHORT}}_{{RUN_NAME}}.json"
+    format: csv
 

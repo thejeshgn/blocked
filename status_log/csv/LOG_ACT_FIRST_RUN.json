@@ -1,0 +1,644 @@
+id,URL,RUN_NAME,STATUS,ISP,RUN_TIME,IP_LOCATION,IP,ISP_SHORT
+1,http://pastebin.com/,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:09:45,"India, Karnataka, Bangalore",103.227.96.80,ACT
+2,http://www.firstpost.com/,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:09:46,"India, Karnataka, Bangalore",103.227.96.80,ACT
+3,http://imagessearchyahoo.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:09:48,"India, Karnataka, Bangalore",103.227.96.80,ACT
+4,http://imamali8.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:09:50,"India, Karnataka, Bangalore",103.227.96.80,ACT
+5,http://rahulyadav.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:09:52,"India, Karnataka, Bangalore",103.227.96.80,ACT
+6,http://hinduhumanrights.org,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:09:53,"India, Karnataka, Bangalore",103.227.96.80,ACT
+7,http://nndh.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:09:55,"India, Karnataka, Bangalore",103.227.96.80,ACT
+8,http://modovideo.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:09:59,"India, Karnataka, Bangalore",103.227.96.80,ACT
+9,http://youwatch.org,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:10:01,"India, Karnataka, Bangalore",103.227.96.80,ACT
+10,http://videoweed.es,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:10:05,"India, Karnataka, Bangalore",103.227.96.80,ACT
+11,http://torrentz.sx,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:10:11,"India, Karnataka, Bangalore",103.227.96.80,ACT
+12,http://thepiratebay.se.unblock.to,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:10:17,"India, Karnataka, Bangalore",103.227.96.80,ACT
+13,http://uptobox.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:10:19,"India, Karnataka, Bangalore",103.227.96.80,ACT
+14,http://torrentdownload.ws,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:10:24,"India, Karnataka, Bangalore",103.227.96.80,ACT
+15,http://btmon.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:10:27,"India, Karnataka, Bangalore",103.227.96.80,ACT
+16,http://thepiratebay.se,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:10:28,"India, Karnataka, Bangalore",103.227.96.80,ACT
+17,http://bthunter.org,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:10:33,"India, Karnataka, Bangalore",103.227.96.80,ACT
+18,http://1337x.org,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:10:39,"India, Karnataka, Bangalore",103.227.96.80,ACT
+19,http://swankshare.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:11:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+20,http://torrentz.dj,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:11:09,"India, Karnataka, Bangalore",103.227.96.80,ACT
+21,http://torrentz.am,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:11:16,"India, Karnataka, Bangalore",103.227.96.80,ACT
+22,http://torcache.kickassunblock.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:11:19,"India, Karnataka, Bangalore",103.227.96.80,ACT
+23,http://ontohinbd.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:11:22,"India, Karnataka, Bangalore",103.227.96.80,ACT
+24,http://barcelonastream.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:11:25,"India, Karnataka, Bangalore",103.227.96.80,ACT
+25,http://hdembed.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:11:32,"India, Karnataka, Bangalore",103.227.96.80,ACT
+26,http://s247.tv,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:11:35,"India, Karnataka, Bangalore",103.227.96.80,ACT
+27,http://sambasoccer.pw,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:11:44,"India, Karnataka, Bangalore",103.227.96.80,ACT
+28,http://skysports.tv,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:11:48,"India, Karnataka, Bangalore",103.227.96.80,ACT
+29,http://megafiles.se,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:11:49,"India, Karnataka, Bangalore",103.227.96.80,ACT
+30,http://exashare.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:11:54,"India, Karnataka, Bangalore",103.227.96.80,ACT
+31,http://primeshare.tv,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:11:56,"India, Karnataka, Bangalore",103.227.96.80,ACT
+32,http://uploadc.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:11:59,"India, Karnataka, Bangalore",103.227.96.80,ACT
+33,http://epicshare.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:12:01,"India, Karnataka, Bangalore",103.227.96.80,ACT
+34,http://thefile.me,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:12:04,"India, Karnataka, Bangalore",103.227.96.80,ACT
+35,http://nosupload.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:12:06,"India, Karnataka, Bangalore",103.227.96.80,ACT
+36,http://uploadsat.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:12:18,"India, Karnataka, Bangalore",103.227.96.80,ACT
+37,http://shareflare.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:12:27,"India, Karnataka, Bangalore",103.227.96.80,ACT
+38,http://letitbit.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:12:29,"India, Karnataka, Bangalore",103.227.96.80,ACT
+39,http://unlimitzone.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:12:31,"India, Karnataka, Bangalore",103.227.96.80,ACT
+40,http://uploadrocket.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:12:34,"India, Karnataka, Bangalore",103.227.96.80,ACT
+41,http://secureupload.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:12:39,"India, Karnataka, Bangalore",103.227.96.80,ACT
+42,http://hulkfile.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:12:44,"India, Karnataka, Bangalore",103.227.96.80,ACT
+43,http://filehoot.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:12:46,"India, Karnataka, Bangalore",103.227.96.80,ACT
+44,http://usefile.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:13:18,"India, Karnataka, Bangalore",103.227.96.80,ACT
+45,http://hitfile.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:13:23,"India, Karnataka, Bangalore",103.227.96.80,ACT
+46,http://jheberg.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:13:26,"India, Karnataka, Bangalore",103.227.96.80,ACT
+47,http://dl.free.fr,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:13:28,"India, Karnataka, Bangalore",103.227.96.80,ACT
+48,http://sharebeast.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:13:31,"India, Karnataka, Bangalore",103.227.96.80,ACT
+49,http://vshare.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:13:33,"India, Karnataka, Bangalore",103.227.96.80,ACT
+50,http://megafilesfactory.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:13:35,"India, Karnataka, Bangalore",103.227.96.80,ACT
+51,http://videobam.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:13:37,"India, Karnataka, Bangalore",103.227.96.80,ACT
+52,http://sharexvid.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:13:58,"India, Karnataka, Bangalore",103.227.96.80,ACT
+53,http://vidzi.tv,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:14:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+54,http://streamin.to,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:14:03,"India, Karnataka, Bangalore",103.227.96.80,ACT
+55,http://thevideo.me,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:14:09,"India, Karnataka, Bangalore",103.227.96.80,ACT
+56,http://vidzbeez.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:14:14,"India, Karnataka, Bangalore",103.227.96.80,ACT
+57,http://divxstream.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:14:17,"India, Karnataka, Bangalore",103.227.96.80,ACT
+58,http://videowood.tv,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:14:19,"India, Karnataka, Bangalore",103.227.96.80,ACT
+59,http://hostingbulk.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:14:23,"India, Karnataka, Bangalore",103.227.96.80,ACT
+60,http://slickvid.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:14:25,"India, Karnataka, Bangalore",103.227.96.80,ACT
+61,http://videomega.tv,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:14:26,"India, Karnataka, Bangalore",103.227.96.80,ACT
+62,http://torrentz.to,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:14:29,"India, Karnataka, Bangalore",103.227.96.80,ACT
+63,http://dev.torrentz.pro,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:14:33,"India, Karnataka, Bangalore",103.227.96.80,ACT
+64,http://piraattilahti.org,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:14:38,"India, Karnataka, Bangalore",103.227.96.80,ACT
+65,http://torrentz.asia,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:14:59,"India, Karnataka, Bangalore",103.227.96.80,ACT
+66,http://kickasstorrents.com.in,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:15:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+67,http://desistreams.tv,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:15:07,"India, Karnataka, Bangalore",103.227.96.80,ACT
+68,http://streamhd.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:15:10,"India, Karnataka, Bangalore",103.227.96.80,ACT
+69,http://filestube.to,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:15:15,"India, Karnataka, Bangalore",103.227.96.80,ACT
+70,http://kickassunblock.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:15:18,"India, Karnataka, Bangalore",103.227.96.80,ACT
+71,http://0dian8.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:15:29,"India, Karnataka, Bangalore",103.227.96.80,ACT
+72,http://114nba.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:15:40,"India, Karnataka, Bangalore",103.227.96.80,ACT
+73,http://360bo.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:16:19,"India, Karnataka, Bangalore",103.227.96.80,ACT
+74,http://51live.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:16:25,"India, Karnataka, Bangalore",103.227.96.80,ACT
+75,http://antibookers.ru,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:16:30,"India, Karnataka, Bangalore",103.227.96.80,ACT
+76,http://atdhe.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:16:38,"India, Karnataka, Bangalore",103.227.96.80,ACT
+77,http://atdhe.so,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:16:41,"India, Karnataka, Bangalore",103.227.96.80,ACT
+78,http://atdhe.xxx,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:16:44,"India, Karnataka, Bangalore",103.227.96.80,ACT
+79,http://atdhe24.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:16:48,"India, Karnataka, Bangalore",103.227.96.80,ACT
+80,http://azhibo.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:16:58,"India, Karnataka, Bangalore",103.227.96.80,ACT
+81,http://coolsport.tv,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+82,http://tvole.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:03,"India, Karnataka, Bangalore",103.227.96.80,ACT
+83,http://drakulastream.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:07,"India, Karnataka, Bangalore",103.227.96.80,ACT
+84,http://esportesaovivo.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:10,"India, Karnataka, Bangalore",103.227.96.80,ACT
+85,http://feed2all.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:13,"India, Karnataka, Bangalore",103.227.96.80,ACT
+86,http://gooool.org,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:16,"India, Karnataka, Bangalore",103.227.96.80,ACT
+87,http://hahasport.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:21,"India, Karnataka, Bangalore",103.227.96.80,ACT
+88,http://neolive.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:25,"India, Karnataka, Bangalore",103.227.96.80,ACT
+89,http://kanqiu.tv,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:35,"India, Karnataka, Bangalore",103.227.96.80,ACT
+90,http://livesport4u.com,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:37,"India, Karnataka, Bangalore",103.227.96.80,ACT
+91,http://livetv.sx,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:40,"India, Karnataka, Bangalore",103.227.96.80,ACT
+92,http://meczelive.tv,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:43,"India, Karnataka, Bangalore",103.227.96.80,ACT
+93,http://megatvonline.co (redirect to vertvaovivo.biz),FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:45,"India, Karnataka, Bangalore",103.227.96.80,ACT
+94,http://epctv.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:47,"India, Karnataka, Bangalore",103.227.96.80,ACT
+95,http://fancylive.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:50,"India, Karnataka, Bangalore",103.227.96.80,ACT
+96,http://firstrows.biz,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:54,"India, Karnataka, Bangalore",103.227.96.80,ACT
+97,http://firstrowsports.ge,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:57,"India, Karnataka, Bangalore",103.227.96.80,ACT
+98,http://footballhd.ru,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:17:59,"India, Karnataka, Bangalore",103.227.96.80,ACT
+99,http://freefootball.ws,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:18:03,"India, Karnataka, Bangalore",103.227.96.80,ACT
+100,http://freelivefussball.de,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:18:07,"India, Karnataka, Bangalore",103.227.96.80,ACT
+101,http://freelivesport.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:18:09,"India, Karnataka, Bangalore",103.227.96.80,ACT
+102,http://futbolarg.tv,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:18:12,"India, Karnataka, Bangalore",103.227.96.80,ACT
+103,http://footballsinlimites.pw,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:18:16,"India, Karnataka, Bangalore",103.227.96.80,ACT
+104,http://goatd.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:18:20,"India, Karnataka, Bangalore",103.227.96.80,ACT
+105,http://funkeysports.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:18:41,"India, Karnataka, Bangalore",103.227.96.80,ACT
+106,http://hdstreams.tv,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:18:46,"India, Karnataka, Bangalore",103.227.96.80,ACT
+107,http://iraqgoals.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:18:50,"India, Karnataka, Bangalore",103.227.96.80,ACT
+108,http://lesoleildelanuit.wf,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:18:51,"India, Karnataka, Bangalore",103.227.96.80,ACT
+109,http://life-sport.org,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:18:54,"India, Karnataka, Bangalore",103.227.96.80,ACT
+110,http://max-deportv.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:18:56,"India, Karnataka, Bangalore",103.227.96.80,ACT
+111,http://megaviptv.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:19:01,"India, Karnataka, Bangalore",103.227.96.80,ACT
+112,http://milloxtv.me,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:19:02,"India, Karnataka, Bangalore",103.227.96.80,ACT
+113,http://nowwatchtvlive.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:19:04,"India, Karnataka, Bangalore",103.227.96.80,ACT
+114,http://online-soccer.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:23:48,"India, Karnataka, Bangalore",103.227.96.80,ACT
+115,http://premier-league-live.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:23:50,"India, Karnataka, Bangalore",103.227.96.80,ACT
+116,http://real-tv-sport.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:23:54,"India, Karnataka, Bangalore",103.227.96.80,ACT
+117,http://soccertoall.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:23:57,"India, Karnataka, Bangalore",103.227.96.80,ACT
+118,http://katshore.org,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:24:06,"India, Karnataka, Bangalore",103.227.96.80,ACT
+119,http://p2p-hd.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:24:27,"India, Karnataka, Bangalore",103.227.96.80,ACT
+120,http://qmzhibo.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:24:37,"India, Karnataka, Bangalore",103.227.96.80,ACT
+121,http://rojadirecta.me,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:24:41,"India, Karnataka, Bangalore",103.227.96.80,ACT
+122,http://sport5online.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:24:44,"India, Karnataka, Bangalore",103.227.96.80,ACT
+123,http://sportiemon.ge,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:24:45,"India, Karnataka, Bangalore",103.227.96.80,ACT
+124,http://sportlemontv.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:24:50,"India, Karnataka, Bangalore",103.227.96.80,ACT
+125,http://sportp2p.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:24:54,"India, Karnataka, Bangalore",103.227.96.80,ACT
+126,http://feed4u.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:24:57,"India, Karnataka, Bangalore",103.227.96.80,ACT
+127,http://tvonlinexat.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:25:01,"India, Karnataka, Bangalore",103.227.96.80,ACT
+128,http://usagoals.tv,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:25:05,"India, Karnataka, Bangalore",103.227.96.80,ACT
+129,http://vipbox.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:25:12,"India, Karnataka, Bangalore",103.227.96.80,ACT
+130,http://vipboxuk.co,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:25:18,"India, Karnataka, Bangalore",103.227.96.80,ACT
+131,http://24livestreamtv.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:25:26,"India, Karnataka, Bangalore",103.227.96.80,ACT
+132,http://atdhe.ge,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:25:29,"India, Karnataka, Bangalore",103.227.96.80,ACT
+133,http://atdhe.sx,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:25:34,"India, Karnataka, Bangalore",103.227.96.80,ACT
+134,http://atdhe.ws,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:25:38,"India, Karnataka, Bangalore",103.227.96.80,ACT
+135,http://bongdatructuyen.info,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:25:40,"India, Karnataka, Bangalore",103.227.96.80,ACT
+136,http://bongdatructuyen.vn,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:25:45,"India, Karnataka, Bangalore",103.227.96.80,ACT
+137,http://bongdatv.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:25:54,"India, Karnataka, Bangalore",103.227.96.80,ACT
+138,http://bongdaup.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:25:57,"India, Karnataka, Bangalore",103.227.96.80,ACT
+139,http://majika.biz,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:26:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+140,http://btvsports.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:26:05,"India, Karnataka, Bangalore",103.227.96.80,ACT
+141,http://capodeportes.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:26:08,"India, Karnataka, Bangalore",103.227.96.80,ACT
+142,http://catedralhd.tk,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:26:12,"India, Karnataka, Bangalore",103.227.96.80,ACT
+143,http://desportogratis.com,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:26:14,"India, Karnataka, Bangalore",103.227.96.80,ACT
+144,http://dinozap.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:26:17,"India, Karnataka, Bangalore",103.227.96.80,ACT
+145,http://streamking.org,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:26:19,"India, Karnataka, Bangalore",103.227.96.80,ACT
+146,http://tructiepbongda.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:26:23,"India, Karnataka, Bangalore",103.227.96.80,ACT
+147,http://tv-link.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 12:26:26,"India, Karnataka, Bangalore",103.227.96.80,ACT
+148,http://vipracing.co.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:03:39,"India, Karnataka, Bangalore",103.227.96.80,ACT
+149,http://bloodrovaltriped.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:03:44,"India, Karnataka, Bangalore",103.227.96.80,ACT
+150,http://merrimusings.typepad.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:03:47,"India, Karnataka, Bangalore",103.227.96.80,ACT
+151,http://thepiratescove.us,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:03:53,"India, Karnataka, Bangalore",103.227.96.80,ACT
+152,http://smeisp.cn,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:03:55,"India, Karnataka, Bangalore",103.227.96.80,ACT
+153,http://mobango.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:03:59,"India, Karnataka, Bangalore",103.227.96.80,ACT
+154,http://clickatell.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:04:07,"India, Karnataka, Bangalore",103.227.96.80,ACT
+155,http://commnicator.clickatell.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:04:13,"India, Karnataka, Bangalore",103.227.96.80,ACT
+156,http://dalitstan.org,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:04:16,"India, Karnataka, Bangalore",103.227.96.80,ACT
+157,http://mackers-world.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:04:19,"India, Karnataka, Bangalore",103.227.96.80,ACT
+158,http://hinduunity.org,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:04:40,"India, Karnataka, Bangalore",103.227.96.80,ACT
+159,http://mypetjawa.mu.nu,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:04:43,"India, Karnataka, Bangalore",103.227.96.80,ACT
+160,http://jonnyasp.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:04:45,"India, Karnataka, Bangalore",103.227.96.80,ACT
+161,http://google0.ingo,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:04:47,"India, Karnataka, Bangalore",103.227.96.80,ACT
+162,http://www.box.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:04:51,"India, Karnataka, Bangalore",103.227.96.80,ACT
+163,http://www.geocities.com/cpmimlpwg,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:04:55,"India, Karnataka, Bangalore",103.227.96.80,ACT
+164,http://www.geocities.com/cpmimlpwg/home.html,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:04:59,"India, Karnataka, Bangalore",103.227.96.80,ACT
+165,http://in.mobango.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:05:03,"India, Karnataka, Bangalore",103.227.96.80,ACT
+166,http://www.hinduunity.org,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:05:24,"India, Karnataka, Bangalore",103.227.96.80,ACT
+167,http://www.hinduunity.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:05:28,"India, Karnataka, Bangalore",103.227.96.80,ACT
+168,http://www.hinduunity.net,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:05:49,"India, Karnataka, Bangalore",103.227.96.80,ACT
+169,http://carc.org.in,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:05:52,"India, Karnataka, Bangalore",103.227.96.80,ACT
+170,http://www.yourfilehost.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:05:57,"India, Karnataka, Bangalore",103.227.96.80,ACT
+171,http://www.tv.tamilwire.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+172,http://www.savithabhabi.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:05,"India, Karnataka, Bangalore",103.227.96.80,ACT
+173,http://www.zone-h.org,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:07,"India, Karnataka, Bangalore",103.227.96.80,ACT
+174,http://zone-h.org,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:09,"India, Karnataka, Bangalore",103.227.96.80,ACT
+175,http://bloggernews.net/124029/,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:13,"India, Karnataka, Bangalore",103.227.96.80,ACT
+176,http://www.bloggernews.net/124029,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:16,"India, Karnataka, Bangalore",103.227.96.80,ACT
+177,http://www.bloggernews.net/124029/,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:17,"India, Karnataka, Bangalore",103.227.96.80,ACT
+178,http://www.google.co.in/#h1=en&source=hp&biw=1276&bih=843&q=dr+babasaheb+ambedkar+wallpaper&aq+4&aqi=g10&aql=&oq=dr+babas&gs_rfai=&fp=e791fe993fa412ba,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:18,"India, Karnataka, Bangalore",103.227.96.80,ACT
+179,http://www.submitlink.khatana.net/2010/09/jennifer-stano-is-engaged-to.html,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:21,"India, Karnataka, Bangalore",103.227.96.80,ACT
+180,http://www.cinemahd.net/desktop-enhancements/wallpaper/23945-wallpapers-beautiful-girl-wallpaper.html,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:23,"India, Karnataka, Bangalore",103.227.96.80,ACT
+181,http://www.chakpak.com/find/images/kamasutra-hindi-movie,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:25,"India, Karnataka, Bangalore",103.227.96.80,ACT
+182,http://www.result.khatana.net/2010/11/im-no-panty-girl-yana-gupta-wardrobe.html,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:28,"India, Karnataka, Bangalore",103.227.96.80,ACT
+183,http://www.facebook.com/pages/I-Hate-Ambedkar/172025102828076,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:32,"India, Karnataka, Bangalore",103.227.96.80,ACT
+184,http://www.arizona.indymedia.org/,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:34,"India, Karnataka, Bangalore",103.227.96.80,ACT
+185,http://www.indybay.org,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:36,"India, Karnataka, Bangalore",103.227.96.80,ACT
+186,http://www.complaintsboard.com/complaints/narang-access-pvt-ltd-c426988.html?sort=ratea.,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:38,"India, Karnataka, Bangalore",103.227.96.80,ACT
+187,http://dl.btjunkie.org/torrent/Bodyguard-2011-Hindi-Movie-SCR-1CD-CAM-RIP-DAY/3381072ca0b09a7e175bc5cc10fbcc660645,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:40,"India, Karnataka, Bangalore",103.227.96.80,ACT
+188,http://satishsethadag.blogspot.com/,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:43,"India, Karnataka, Bangalore",103.227.96.80,ACT
+189,http://satishseth.blogspot.com/,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:45,"India, Karnataka, Bangalore",103.227.96.80,ACT
+190,http://in.linkedin.com/in/satishseth,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:48,"India, Karnataka, Bangalore",103.227.96.80,ACT
+191,https://profiles.google.com/103976341793285625231/about,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:49,"India, Karnataka, Bangalore",103.227.96.80,ACT
+192,http://satishsethswan.blogspot.com/,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:52,"India, Karnataka, Bangalore",103.227.96.80,ACT
+193,http://in.linkedin.com/in/satishsethadag,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:56,"India, Karnataka, Bangalore",103.227.96.80,ACT
+194,http://digg.com/satishsethadag,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:57,"India, Karnataka, Bangalore",103.227.96.80,ACT
+195,http://digg.com/satishsethswan/submissions,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:06:59,"India, Karnataka, Bangalore",103.227.96.80,ACT
+196,http://in.linkedin.com/pub/satish-seth-investment/3a/144/931,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:07:02,"India, Karnataka, Bangalore",103.227.96.80,ACT
+197,http://www.blogger.com/profile/03550922789477190410,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:07:10,"India, Karnataka, Bangalore",103.227.96.80,ACT
+198,http://www.blogger-index.com/693616-satish-seth-adag,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:07:14,"India, Karnataka, Bangalore",103.227.96.80,ACT
+199,http://satishsethreliance.tumblr.com/,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:07:17,"India, Karnataka, Bangalore",103.227.96.80,ACT
+200,http://twitter.com/satishsethswan,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:07:25,"India, Karnataka, Bangalore",103.227.96.80,ACT
+201,http://www.metacafe.com/watch/7230576/joining_a_dancing_class_benefits/,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:07:28,"India, Karnataka, Bangalore",103.227.96.80,ACT
+202,http://www.myspace.com/video/satishsethswan/why-our-alsatian-dog-felt-restless-describes-satish-seth-swan/108188726,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:07:32,"India, Karnataka, Bangalore",103.227.96.80,ACT
+203,http://www.moneycontrol.com/stocks/cptmarket/searchpage/search.php?hl=3&companyname=Satish%20Seth&start=24,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:07:36,"India, Karnataka, Bangalore",103.227.96.80,ACT
+204,http://www.youtube.com/user/satishsatishseth?feature=mhee,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:07:43,"India, Karnataka, Bangalore",103.227.96.80,ACT
+205,http://www.tumblr.com/tagged/satish+seth,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:07:47,"India, Karnataka, Bangalore",103.227.96.80,ACT
+206,http://www.squidoo.com/satish-seth-at-his-adag-village,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:07:49,"India, Karnataka, Bangalore",103.227.96.80,ACT
+207,http://sites.google.com/site/satishsethreliance/journal-blog/satishsethrelianceonthisnicelittlerestaurantonhighway,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:07:52,"India, Karnataka, Bangalore",103.227.96.80,ACT
+208,http://www.blogger-index.com/search.php?s=satish+seth,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:07:55,"India, Karnataka, Bangalore",103.227.96.80,ACT
+209,http://satishsethadag.livejournal.com/,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:07:57,"India, Karnataka, Bangalore",103.227.96.80,ACT
+210,http://satishsethreliance.tumblr.com/tagged/Satish_Seth,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:07:59,"India, Karnataka, Bangalore",103.227.96.80,ACT
+211,http://satishsethreliance.blog.com/,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:05,"India, Karnataka, Bangalore",103.227.96.80,ACT
+212,http://parenting.feedables.com/story/8652112/Satish-Seth-Reliance-on-His-Dogs-for-Fun-and-Wisdom,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:07,"India, Karnataka, Bangalore",103.227.96.80,ACT
+213,http://sethadag.typepad.com/blog/,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:10,"India, Karnataka, Bangalore",103.227.96.80,ACT
+214,http://www.myspace.com/satishsethreliance,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:14,"India, Karnataka, Bangalore",103.227.96.80,ACT
+215,http://in.linkedin.com/in/satishsethswan,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:16,"India, Karnataka, Bangalore",103.227.96.80,ACT
+216,http://in.linkedin.com/pub/dir/?first=Satish&last=Seth,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:19,"India, Karnataka, Bangalore",103.227.96.80,ACT
+217,http://satishsethreliance.blogspot.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:21,"India, Karnataka, Bangalore",103.227.96.80,ACT
+218,http://sites.google.com/site/satishsethreliance/journal-blog/,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:24,"India, Karnataka, Bangalore",103.227.96.80,ACT
+219,http://digg.com/satishsethreliance,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:26,"India, Karnataka, Bangalore",103.227.96.80,ACT
+220,http://in.linkedin.com/in/satishsethreliance,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:28,"India, Karnataka, Bangalore",103.227.96.80,ACT
+221,http://satishsethadag.tumblr.com/,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:30,"India, Karnataka, Bangalore",103.227.96.80,ACT
+222,http://www.facebook.com/public/Satish-Seth-Adag,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:35,"India, Karnataka, Bangalore",103.227.96.80,ACT
+223,http://www.metacafe.com/channels/satishsethswan/,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:37,"India, Karnataka, Bangalore",103.227.96.80,ACT
+224,http://satishseth2gscamadagofficial.blogspot.com/,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:39,"India, Karnataka, Bangalore",103.227.96.80,ACT
+225,http://satishsethadag.blogspot.com/2011/08/satish-seth-worships-adag-friends-with.html,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:46,"India, Karnataka, Bangalore",103.227.96.80,ACT
+226,http://www.metacafe.com/watch/7210362/satish_seth_at_his_adag_amma_daddy_as_gods_home_with_pets/,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:50,"India, Karnataka, Bangalore",103.227.96.80,ACT
+227,http://www.metacafe.com/channels/Satish+Seth+Adag/,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:53,"India, Karnataka, Bangalore",103.227.96.80,ACT
+228,http://satishsethreliance.blogspot.com/2011/09/satish-seth-reliance-on-his-adag-amma.html,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:55,"India, Karnataka, Bangalore",103.227.96.80,ACT
+229,http://satishsethadag.blogspot.com/2011/09/sa-seth-wants-to-know-algorithm-of.html,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:08:58,"India, Karnataka, Bangalore",103.227.96.80,ACT
+230,http://satishsethadag.blogspot.com/2011/09/adagmant-tommy-not-listening-to-satish.html,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+231,http://in.linkedin.com/in/satishseth2gscamadagofficial,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:02,"India, Karnataka, Bangalore",103.227.96.80,ACT
+232,http://www.metacafe.com/channels/Satish+Seth/,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:05,"India, Karnataka, Bangalore",103.227.96.80,ACT
+233,http://www.bhandafodu.blogspot.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:07,"India, Karnataka, Bangalore",103.227.96.80,ACT
+234,http://www.bhandafodu.blogspot.com/,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:09,"India, Karnataka, Bangalore",103.227.96.80,ACT
+235,http://bhandafodu.blogspot.com/,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:11,"India, Karnataka, Bangalore",103.227.96.80,ACT
+236,http://drashukumar.files.wordpress.com/2011/10/who_got_shivani_killed.doc,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:13,"India, Karnataka, Bangalore",103.227.96.80,ACT
+237,http://drashukumar.files.wordpress.com/2011/10/ashokarorashivaniarticle.doc,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:15,"India, Karnataka, Bangalore",103.227.96.80,ACT
+238,http://www.unipay2u.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:17,"India, Karnataka, Bangalore",103.227.96.80,ACT
+239,http://www.unipay2u-international.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:19,"India, Karnataka, Bangalore",103.227.96.80,ACT
+240,http://www.unipay2u-trading.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:20,"India, Karnataka, Bangalore",103.227.96.80,ACT
+241,http://www.unipaygateway2u.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:22,"India, Karnataka, Bangalore",103.227.96.80,ACT
+242,http://www.unigold2u.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:23,"India, Karnataka, Bangalore",103.227.96.80,ACT
+243,http://www.unicreation2u.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:25,"India, Karnataka, Bangalore",103.227.96.80,ACT
+244,http://www.uniexchange2u.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:27,"India, Karnataka, Bangalore",103.227.96.80,ACT
+245,http://www.visarev.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:29,"India, Karnataka, Bangalore",103.227.96.80,ACT
+246,http://www.unipay2u-marketing-private-limited.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:30,"India, Karnataka, Bangalore",103.227.96.80,ACT
+247,http://www.vergingoldint.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:32,"India, Karnataka, Bangalore",103.227.96.80,ACT
+248,http://www.ad2earn.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:34,"India, Karnataka, Bangalore",103.227.96.80,ACT
+249,http://www.barandbench.com/brief//1804/delhi-hc-seeks-response-from-supreme-court-lawyer-for-criticizing-judge-,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:39,"India, Karnataka, Bangalore",103.227.96.80,ACT
+250,http://www.silobreaker.com/delhi-hc-seeks-response-from-supreme-court-lawyer-for-criticizing-judge-52264948356772003931,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:46,"India, Karnataka, Bangalore",103.227.96.80,ACT
+251,http://www.facebook.com/#!/pages/this-dog-will-get-more-fans-than-syad-ali-shah-geelani/219014304783271,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:51,"India, Karnataka, Bangalore",103.227.96.80,ACT
+252,http://songs.pk,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:54,"India, Karnataka, Bangalore",103.227.96.80,ACT
+253,http://shariah4hind.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:56,"India, Karnataka, Bangalore",103.227.96.80,ACT
+254,http://hinduexistence.wordpress.comhttp://t0.gstatic.com/images?q=tbn:ANd9GeSCH-Hre979-1xz2ymqpEgMP9x3y8A_P26brhMRiqcui34cqs1s,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:09:58,"India, Karnataka, Bangalore",103.227.96.80,ACT
+255,http://facebook.com/#!sonniyya/photos,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:10:04,"India, Karnataka, Bangalore",103.227.96.80,ACT
+256,http://facebook.com/media/set/?set=a.228899373874308.46433.100002627423113&type=3,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:10:09,"India, Karnataka, Bangalore",103.227.96.80,ACT
+257,http://hinduexistence.wordpress.com/tag/the-telegraph-kolkata/www.hinduexistence.wordpress.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:10:12,"India, Karnataka, Bangalore",103.227.96.80,ACT
+258,http://epaper.telegraphindia.com/PUBLICATION/TT/TT/2012/03/19.INDEX.SHTML,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:10:13,"India, Karnataka, Bangalore",103.227.96.80,ACT
+259,http://hinduexistence.wordpress.com/2012/03/oh-not-again.jpg,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:10:15,"India, Karnataka, Bangalore",103.227.96.80,ACT
+260,http://t0.gstatic.com/images?q=tbn:ANd9GcSCH-Hre979-1xz2ymqpEgMP9x3y8A_P26brhMRiqcui34cqs1s,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:10:17,"India, Karnataka, Bangalore",103.227.96.80,ACT
+261,http://facebook.com/#!media/set/?set=a.228899373874308.46433.100002627423113&type=3,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:10:23,"India, Karnataka, Bangalore",103.227.96.80,ACT
+262,http://t0.gstatic.com/images?q=tbn:ANd9GcSCh-tire979-,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:10:24,"India, Karnataka, Bangalore",103.227.96.80,ACT
+263,http://google.co.in/search?q=telegraphkolkatat2/20march2012&hl=en&prmd=imvns&source=inms&tbm=isch&ei=YvBqT-WxFtHjrAe5s5mdAg&sa=X&oi=modelink&ct=mode&cd=2&ved=0CBUQAU0AQ&biw=1843&bih=959,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:10:27,"India, Karnataka, Bangalore",103.227.96.80,ACT
+264,http://22beats.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:10:30,"India, Karnataka, Bangalore",103.227.96.80,ACT
+265,http://absongs.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:10:32,"India, Karnataka, Bangalore",103.227.96.80,ACT
+266,http://apniisp.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:10:34,"India, Karnataka, Bangalore",103.227.96.80,ACT
+267,http://apunkabollywood.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:10:36,"India, Karnataka, Bangalore",103.227.96.80,ACT
+268,http://bollyextreme.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:10:38,"India, Karnataka, Bangalore",103.227.96.80,ACT
+269,http://bollymaza.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:10:59,"India, Karnataka, Bangalore",103.227.96.80,ACT
+270,http://bollymaza.com/,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:11:21,"India, Karnataka, Bangalore",103.227.96.80,ACT
+271,http://bollywood-hits.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:11:28,"India, Karnataka, Bangalore",103.227.96.80,ACT
+272,http://bollywoodmp4.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:11:30,"India, Karnataka, Bangalore",103.227.96.80,ACT
+273,http://bollywoodstop.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:11:33,"India, Karnataka, Bangalore",103.227.96.80,ACT
+274,http://coolgoose.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:07,"India, Karnataka, Bangalore",103.227.96.80,ACT
+275,http://dacoolsite.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:10,"India, Karnataka, Bangalore",103.227.96.80,ACT
+276,http://desihits.net,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:13,"India, Karnataka, Bangalore",103.227.96.80,ACT
+277,http://desifunda.net,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:15,"India, Karnataka, Bangalore",103.227.96.80,ACT
+278,http://desisong.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:17,"India, Karnataka, Bangalore",103.227.96.80,ACT
+279,http://dhakdhakradio.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:19,"India, Karnataka, Bangalore",103.227.96.80,ACT
+280,http://downloadming.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:20,"India, Karnataka, Bangalore",103.227.96.80,ACT
+281,http://freeindisongs.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:23,"India, Karnataka, Bangalore",103.227.96.80,ACT
+282,http://funmaza.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:25,"India, Karnataka, Bangalore",103.227.96.80,ACT
+283,http://songs.ind.in,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:31,"India, Karnataka, Bangalore",103.227.96.80,ACT
+284,http://karachimag.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:33,"India, Karnataka, Bangalore",103.227.96.80,ACT
+285,http://koolfree.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:36,"India, Karnataka, Bangalore",103.227.96.80,ACT
+286,http://lovepaki.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:38,"India, Karnataka, Bangalore",103.227.96.80,ACT
+287,http://mastmag.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:40,"India, Karnataka, Bangalore",103.227.96.80,ACT
+288,http://mobraja.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:42,"India, Karnataka, Bangalore",103.227.96.80,ACT
+289,http://mp3fundoo.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:48,"India, Karnataka, Bangalore",103.227.96.80,ACT
+290,http://mp3paradice.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:51,"India, Karnataka, Bangalore",103.227.96.80,ACT
+291,http://musicduniya.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:53,"India, Karnataka, Bangalore",103.227.96.80,ACT
+292,http://musiqbuzz.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:55,"India, Karnataka, Bangalore",103.227.96.80,ACT
+293,http://muskurahat.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:57,"India, Karnataka, Bangalore",103.227.96.80,ACT
+294,http://netmasty.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:12:59,"India, Karnataka, Bangalore",103.227.96.80,ACT
+295,http://pakfellows.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:01,"India, Karnataka, Bangalore",103.227.96.80,ACT
+296,http://paktimes.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:03,"India, Karnataka, Bangalore",103.227.96.80,ACT
+297,http://playlist.pk,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:06,"India, Karnataka, Bangalore",103.227.96.80,ACT
+298,http://punjabcentral.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:08,"India, Karnataka, Bangalore",103.227.96.80,ACT
+299,http://radioreloaded.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:10,"India, Karnataka, Bangalore",103.227.96.80,ACT
+300,http://radiorhythmz.fm,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:12,"India, Karnataka, Bangalore",103.227.96.80,ACT
+301,http://radiorocking.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:14,"India, Karnataka, Bangalore",103.227.96.80,ACT
+302,http://rkmania.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:15,"India, Karnataka, Bangalore",103.227.96.80,ACT
+303,http://songbox.pk,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:23,"India, Karnataka, Bangalore",103.227.96.80,ACT
+304,http://songsinn.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:25,"India, Karnataka, Bangalore",103.227.96.80,ACT
+305,http://songsnonstop.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:27,"India, Karnataka, Bangalore",103.227.96.80,ACT
+306,http://songsrack.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:33,"India, Karnataka, Bangalore",103.227.96.80,ACT
+307,http://songsrip.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:41,"India, Karnataka, Bangalore",103.227.96.80,ACT
+308,http://songzilla.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:44,"India, Karnataka, Bangalore",103.227.96.80,ACT
+309,http://topupmp3.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:46,"India, Karnataka, Bangalore",103.227.96.80,ACT
+310,http://town67.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:50,"India, Karnataka, Bangalore",103.227.96.80,ACT
+311,http://100india.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:52,"India, Karnataka, Bangalore",103.227.96.80,ACT
+312,http://musicindiaonline.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:54,"India, Karnataka, Bangalore",103.227.96.80,ACT
+313,http://aflatune.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:56,"India, Karnataka, Bangalore",103.227.96.80,ACT
+314,http://bharatlover.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:13:58,"India, Karnataka, Bangalore",103.227.96.80,ACT
+315,http://cckerala.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+316,http://centralmusiq.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:02,"India, Karnataka, Bangalore",103.227.96.80,ACT
+317,http://chimatamusic.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:04,"India, Karnataka, Bangalore",103.227.96.80,ACT
+318,http://desimusic.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:07,"India, Karnataka, Bangalore",103.227.96.80,ACT
+319,http://desishock.net,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:09,"India, Karnataka, Bangalore",103.227.96.80,ACT
+320,http://dhool.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:10,"India, Karnataka, Bangalore",103.227.96.80,ACT
+321,http://dishant.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:12,"India, Karnataka, Bangalore",103.227.96.80,ACT
+322,http://filmicafe.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:14,"India, Karnataka, Bangalore",103.227.96.80,ACT
+323,http://filmimusic.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:16,"India, Karnataka, Bangalore",103.227.96.80,ACT
+324,http://fun1001.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:18,"India, Karnataka, Bangalore",103.227.96.80,ACT
+325,http://hindimirchi.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:20,"India, Karnataka, Bangalore",103.227.96.80,ACT
+326,http://sunomusic.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:22,"India, Karnataka, Bangalore",103.227.96.80,ACT
+327,http://telugufm.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:24,"India, Karnataka, Bangalore",103.227.96.80,ACT
+328,http://yolike.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:26,"India, Karnataka, Bangalore",103.227.96.80,ACT
+329,http://andhravillas.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:29,"India, Karnataka, Bangalore",103.227.96.80,ACT
+330,http://smashits.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:32,"India, Karnataka, Bangalore",103.227.96.80,ACT
+331,http://songdad.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:34,"India, Karnataka, Bangalore",103.227.96.80,ACT
+332,http://songslover.net,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:37,"India, Karnataka, Bangalore",103.227.96.80,ACT
+333,http://ragalahari.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:39,"India, Karnataka, Bangalore",103.227.96.80,ACT
+334,http://rameshmusic.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:41,"India, Karnataka, Bangalore",103.227.96.80,ACT
+335,http://freeplaymp3songdownload.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:44,"India, Karnataka, Bangalore",103.227.96.80,ACT
+336,http://freefundoo.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:46,"India, Karnataka, Bangalore",103.227.96.80,ACT
+337,http://desijammers.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:48,"India, Karnataka, Bangalore",103.227.96.80,ACT
+338,http://thenisai.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:50,"India, Karnataka, Bangalore",103.227.96.80,ACT
+339,http://mp3feelings.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:52,"India, Karnataka, Bangalore",103.227.96.80,ACT
+340,http://mazafm.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:55,"India, Karnataka, Bangalore",103.227.96.80,ACT
+341,http://kjyesudas.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:14:57,"India, Karnataka, Bangalore",103.227.96.80,ACT
+342,http://jaanfm.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+343,http://gr8click.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:03,"India, Karnataka, Bangalore",103.227.96.80,ACT
+344,http://funscrape.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:05,"India, Karnataka, Bangalore",103.227.96.80,ACT
+345,http://chirkutonorkut.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:07,"India, Karnataka, Bangalore",103.227.96.80,ACT
+346,http://tamilmaalai.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:16,"India, Karnataka, Bangalore",103.227.96.80,ACT
+347,http://tamilkey.info,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:22,"India, Karnataka, Bangalore",103.227.96.80,ACT
+348,http://vmusiq.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:27,"India, Karnataka, Bangalore",103.227.96.80,ACT
+349,http://sevanthi.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:29,"India, Karnataka, Bangalore",103.227.96.80,ACT
+350,http://tamilwire.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:30,"India, Karnataka, Bangalore",103.227.96.80,ACT
+351,http://a2ztamilsongs.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:32,"India, Karnataka, Bangalore",103.227.96.80,ACT
+352,http://mymaza.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:34,"India, Karnataka, Bangalore",103.227.96.80,ACT
+353,http://germantamilan.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:37,"India, Karnataka, Bangalore",103.227.96.80,ACT
+354,http://123music.mobi,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:44,"India, Karnataka, Bangalore",103.227.96.80,ACT
+355,http://desiden.mobi,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:46,"India, Karnataka, Bangalore",103.227.96.80,ACT
+356,http://longmp3.mobi,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:49,"India, Karnataka, Bangalore",103.227.96.80,ACT
+357,http://krazywap.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:52,"India, Karnataka, Bangalore",103.227.96.80,ACT
+358,http://mobile-zon.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:54,"India, Karnataka, Bangalore",103.227.96.80,ACT
+359,http://mymp3.mobi,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:15:56,"India, Karnataka, Bangalore",103.227.96.80,ACT
+360,http://samwep.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:16:03,"India, Karnataka, Bangalore",103.227.96.80,ACT
+361,http://spicyfm.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:16:05,"India, Karnataka, Bangalore",103.227.96.80,ACT
+362,http://wapindia.net,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:16:07,"India, Karnataka, Bangalore",103.227.96.80,ACT
+363,http://wapmaza.mobi,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:16:14,"India, Karnataka, Bangalore",103.227.96.80,ACT
+364,http://waprocks.in,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:16:19,"India, Karnataka, Bangalore",103.227.96.80,ACT
+365,http://mobidreamz.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:16:25,"India, Karnataka, Bangalore",103.227.96.80,ACT
+366,http://waptamil.net,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:16:27,"India, Karnataka, Bangalore",103.227.96.80,ACT
+367,http://zinkwap.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:16:29,"India, Karnataka, Bangalore",103.227.96.80,ACT
+368,http://desibajao.net,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:16:31,"India, Karnataka, Bangalore",103.227.96.80,ACT
+369,http://gogrumogru.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:16:34,"India, Karnataka, Bangalore",103.227.96.80,ACT
+370,http://bollywood-hits.com/,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:16:36,"India, Karnataka, Bangalore",103.227.96.80,ACT
+371,http://songslover.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:16:40,"India, Karnataka, Bangalore",103.227.96.80,ACT
+372,http://www.facebook.com/pages/The-Real-Hindusm-FighterkuverDeepnayaningh/314528855253976,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:16:47,"India, Karnataka, Bangalore",103.227.96.80,ACT
+373,http://facebook.com/photo.php?fbid=2460992102663&set=0.314528855253976&type=1,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:16:54,"India, Karnataka, Bangalore",103.227.96.80,ACT
+374,http://facebook.com/photo.php?fbid=2460932541174%set=0.314528855253976&type=1#!photo.php?fbnid=2460904580475&set=0.314528855253976&type=1&permPage=1,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:16:55,"India, Karnataka, Bangalore",103.227.96.80,ACT
+375,http://facebook.com/pages/The-Real-Hindusm-FighterkuverDeepnayaningh/314528855253976,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:17:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+376,http://www.facebook.com/pages/The-Real-Hindusm-FighterkuverDeepnayaningh/314528855253976#!/photo.php?fbid=360284344011760&set=a.315702081803320.78979.314528855253976&type=1&theater,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:17:04,"India, Karnataka, Bangalore",103.227.96.80,ACT
+377,http://facebook.com/pages/The-Real-Hindusm-FighterkuverDeepnayaningh/314528855253976#!/photo.php?fbid=360284344011760&set=a.315702081803320.78979.314528855253976&type=1&theater,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:17:15,"India, Karnataka, Bangalore",103.227.96.80,ACT
+378,http://tamilcreation.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:17:37,"India, Karnataka, Bangalore",103.227.96.80,ACT
+379,http://tamilfms.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:17:44,"India, Karnataka, Bangalore",103.227.96.80,ACT
+380,http://tamilkuru.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:17:48,"India, Karnataka, Bangalore",103.227.96.80,ACT
+381,http://tamilmovierockers.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:17:52,"India, Karnataka, Bangalore",103.227.96.80,ACT
+382,http://tamilpeek.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:18:14,"India, Karnataka, Bangalore",103.227.96.80,ACT
+383,http://tamiltorrents.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:18:15,"India, Karnataka, Bangalore",103.227.96.80,ACT
+384,http://tamilvix.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:18:20,"India, Karnataka, Bangalore",103.227.96.80,ACT
+385,http://telugucinemascreen.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:18:23,"India, Karnataka, Bangalore",103.227.96.80,ACT
+386,http://telugunagar.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:18:26,"India, Karnataka, Bangalore",103.227.96.80,ACT
+387,http://telugustudio.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:18:29,"India, Karnataka, Bangalore",103.227.96.80,ACT
+388,http://telugu-theater.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:18:33,"India, Karnataka, Bangalore",103.227.96.80,ACT
+389,http://teluguwala.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-28 17:18:36,"India, Karnataka, Bangalore",103.227.96.80,ACT
+390,http://thiruttuvcd.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:50:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+391,http://thisis50.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:50:05,"India, Karnataka, Bangalore",103.227.96.80,ACT
+392,http://tollytorrents.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:50:09,"India, Karnataka, Bangalore",103.227.96.80,ACT
+393,http://tollywoodandhra.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:50:12,"India, Karnataka, Bangalore",103.227.96.80,ACT
+394,http://tollyzone.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:50:16,"India, Karnataka, Bangalore",103.227.96.80,ACT
+395,http://torlock.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:50:19,"India, Karnataka, Bangalore",103.227.96.80,ACT
+396,http://torrent.cd,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:50:22,"India, Karnataka, Bangalore",103.227.96.80,ACT
+397,http://torrentbit.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:50:28,"India, Karnataka, Bangalore",103.227.96.80,ACT
+398,http://torrentcrazy.com,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:50:31,"India, Karnataka, Bangalore",103.227.96.80,ACT
+399,http://torrentdownloads.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:50:35,"India, Karnataka, Bangalore",103.227.96.80,ACT
+400,http://torrentdownloads.ws,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:50:40,"India, Karnataka, Bangalore",103.227.96.80,ACT
+401,http://torrentfunk.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:50:46,"India, Karnataka, Bangalore",103.227.96.80,ACT
+402,http://torrenthound.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:50:50,"India, Karnataka, Bangalore",103.227.96.80,ACT
+403,http://torrentmatrix.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:50:56,"India, Karnataka, Bangalore",103.227.96.80,ACT
+404,http://torrentmonkeys.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:51:04,"India, Karnataka, Bangalore",103.227.96.80,ACT
+405,http://torrentr.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:51:07,"India, Karnataka, Bangalore",103.227.96.80,ACT
+406,http://123tamilforum.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:51:12,"India, Karnataka, Bangalore",103.227.96.80,ACT
+407,http://180upload.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:51:14,"India, Karnataka, Bangalore",103.227.96.80,ACT
+408,http://3gpmovieswap.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:51:16,"India, Karnataka, Bangalore",103.227.96.80,ACT
+409,http://3gptamilmoviez.blogspot.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:51:18,"India, Karnataka, Bangalore",103.227.96.80,ACT
+410,http://adakoo.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:51:20,"India, Karnataka, Bangalore",103.227.96.80,ACT
+411,http://amonshare.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:51:23,"India, Karnataka, Bangalore",103.227.96.80,ACT
+412,http://andhragallerys.blogspot.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:51:25,"India, Karnataka, Bangalore",103.227.96.80,ACT
+413,http://apnadesitv.wordpress.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:51:30,"India, Karnataka, Bangalore",103.227.96.80,ACT
+414,http://apnaindia.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:51:34,"India, Karnataka, Bangalore",103.227.96.80,ACT
+415,http://ashoksmsking.blogspot.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:51:36,"India, Karnataka, Bangalore",103.227.96.80,ACT
+416,http://bitsnoop.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:51:38,"India, Karnataka, Bangalore",103.227.96.80,ACT
+417,http://bittorrent.am,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:51:44,"India, Karnataka, Bangalore",103.227.96.80,ACT
+418,http://bittrend.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:51:48,"India, Karnataka, Bangalore",103.227.96.80,ACT
+419,http://bulkdownloadz.blogspot.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:51:50,"India, Karnataka, Bangalore",103.227.96.80,ACT
+420,http://cinegallerys.blogspot.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:51:53,"India, Karnataka, Bangalore",103.227.96.80,ACT
+421,http://cinehall.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+422,http://cinemas-123andrawala.blogspot.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:02,"India, Karnataka, Bangalore",103.227.96.80,ACT
+423,http://cinerak.blogspot.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:05,"India, Karnataka, Bangalore",103.227.96.80,ACT
+424,http://cinereview1.blogspot.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:07,"India, Karnataka, Bangalore",103.227.96.80,ACT
+425,http://coolgobo.blogspot.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:09,"India, Karnataka, Bangalore",103.227.96.80,ACT
+426,http://datacommunication2011.blogspot.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:11,"India, Karnataka, Bangalore",103.227.96.80,ACT
+427,http://depiraatbaai.be,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:14,"India, Karnataka, Bangalore",103.227.96.80,ACT
+428,http://desibuffer.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:21,"India, Karnataka, Bangalore",103.227.96.80,ACT
+429,http://downloadsguru.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:24,"India, Karnataka, Bangalore",103.227.96.80,ACT
+430,http://downloadsinglelinkmovies.blogspot.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:26,"India, Karnataka, Bangalore",103.227.96.80,ACT
+431,http://entertainment-blast.blogspot.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:28,"India, Karnataka, Bangalore",103.227.96.80,ACT
+432,http://etamilcine.blogspot.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:30,"India, Karnataka, Bangalore",103.227.96.80,ACT
+433,http://extratorrent.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:34,"India, Karnataka, Bangalore",103.227.96.80,ACT
+434,http://fenopy.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:37,"India, Karnataka, Bangalore",103.227.96.80,ACT
+435,http://techsatish.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:42,"India, Karnataka, Bangalore",103.227.96.80,ACT
+436,http://telugumovieslive.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:44,"India, Karnataka, Bangalore",103.227.96.80,ACT
+437,http://telugustudio4u.blogspot.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:50,"India, Karnataka, Bangalore",103.227.96.80,ACT
+438,http://thalathalapathy.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:55,"India, Karnataka, Bangalore",103.227.96.80,ACT
+439,http://thepiratebay.org,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:52:58,"India, Karnataka, Bangalore",103.227.96.80,ACT
+440,http://tollybolly.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:53:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+441,http://tollywoodbolly.blogspot.com,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:53:03,"India, Karnataka, Bangalore",103.227.96.80,ACT
+442,http://torentilo.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:53:06,"India, Karnataka, Bangalore",103.227.96.80,ACT
+443,http://torrage.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:53:40,"India, Karnataka, Bangalore",103.227.96.80,ACT
+444,http://torrent.dl4all.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:53:42,"India, Karnataka, Bangalore",103.227.96.80,ACT
+445,http://torrentdeluxe.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:53:46,"India, Karnataka, Bangalore",103.227.96.80,ACT
+446,http://torrenthouse2.blogspot.com,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:53:49,"India, Karnataka, Bangalore",103.227.96.80,ACT
+447,http://torrenthouse2.blogspot.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:53:51,"India, Karnataka, Bangalore",103.227.96.80,ACT
+448,http://torrents.sumotorrent.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:53:58,"India, Karnataka, Bangalore",103.227.96.80,ACT
+449,http://torrents.thepiratebay.se,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:53:59,"India, Karnataka, Bangalore",103.227.96.80,ACT
+450,http://torrentz.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:54:02,"India, Karnataka, Bangalore",103.227.96.80,ACT
+451,http://tpb.piratenpartij.nl,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:54:10,"India, Karnataka, Bangalore",103.227.96.80,ACT
+452,http://tvcroom.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:54:14,"India, Karnataka, Bangalore",103.227.96.80,ACT
+453,http://uyirisai.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:54:16,"India, Karnataka, Bangalore",103.227.96.80,ACT
+454,http://videos.videomasti.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:54:19,"India, Karnataka, Bangalore",103.227.96.80,ACT
+455,http://videos2movies.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:54:20,"India, Karnataka, Bangalore",103.227.96.80,ACT
+456,http://vimeo.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:54:26,"India, Karnataka, Bangalore",103.227.96.80,ACT
+457,http://vishnu4s.blogspot.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:54:28,"India, Karnataka, Bangalore",103.227.96.80,ACT
+458,http://watchinvideobb.blogspot.com,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:54:31,"India, Karnataka, Bangalore",103.227.96.80,ACT
+459,http://watchinvideozer.blogspot.com,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:54:33,"India, Karnataka, Bangalore",103.227.96.80,ACT
+460,http://webfaris75.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:54:35,"India, Karnataka, Bangalore",103.227.96.80,ACT
+461,http://torrentroom.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:54:38,"India, Karnataka, Bangalore",103.227.96.80,ACT
+462,http://torrents.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:54:44,"India, Karnataka, Bangalore",103.227.96.80,ACT
+463,http://torrentsland.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:54:49,"India, Karnataka, Bangalore",103.227.96.80,ACT
+464,http://torrentssection.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:54:51,"India, Karnataka, Bangalore",103.227.96.80,ACT
+465,http://torrentsstate.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:54:53,"India, Karnataka, Bangalore",103.227.96.80,ACT
+466,http://torrenttracker.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:54:55,"India, Karnataka, Bangalore",103.227.96.80,ACT
+467,http://torrentv.org,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:55:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+468,http://torrentz.me,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:55:03,"India, Karnataka, Bangalore",103.227.96.80,ACT
+469,http://torrentzap.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:55:08,"India, Karnataka, Bangalore",103.227.96.80,ACT
+470,http://uyirvani.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:55:10,"India, Karnataka, Bangalore",103.227.96.80,ACT
+471,http://videobb.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:55:16,"India, Karnataka, Bangalore",103.227.96.80,ACT
+472,http://videoembed.us,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:55:17,"India, Karnataka, Bangalore",103.227.96.80,ACT
+473,http://videozer.om,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:55:21,"India, Karnataka, Bangalore",103.227.96.80,ACT
+474,http://vijaytamil.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:55:42,"India, Karnataka, Bangalore",103.227.96.80,ACT
+475,http://youbittorrent.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:55:49,"India, Karnataka, Bangalore",103.227.96.80,ACT
+476,http://zimbio.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:55:52,"India, Karnataka, Bangalore",103.227.96.80,ACT
+477,http://zustmovies.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:55:55,"India, Karnataka, Bangalore",103.227.96.80,ACT
+478,http://yampblog.blogspot.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:55:57,"India, Karnataka, Bangalore",103.227.96.80,ACT
+479,http://yourbittorrent.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:56:01,"India, Karnataka, Bangalore",103.227.96.80,ACT
+480,http://megavideo.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:56:22,"India, Karnataka, Bangalore",103.227.96.80,ACT
+481,http://torrentrockerz.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:56:27,"India, Karnataka, Bangalore",103.227.96.80,ACT
+482,http://lazydesis.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:56:29,"India, Karnataka, Bangalore",103.227.96.80,ACT
+483,http://indiancinemafans.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:56:31,"India, Karnataka, Bangalore",103.227.96.80,ACT
+484,http://da-pirates.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:56:35,"India, Karnataka, Bangalore",103.227.96.80,ACT
+485,http://spicybeats.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:56:36,"India, Karnataka, Bangalore",103.227.96.80,ACT
+486,http://indianmasti.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:56:41,"India, Karnataka, Bangalore",103.227.96.80,ACT
+487,http://videomasti.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:56:43,"India, Karnataka, Bangalore",103.227.96.80,ACT
+488,http://torrentz.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:56:46,"India, Karnataka, Bangalore",103.227.96.80,ACT
+489,http://extreemsongs.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:56:56,"India, Karnataka, Bangalore",103.227.96.80,ACT
+490,http://legendarydevils.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:57:30,"India, Karnataka, Bangalore",103.227.96.80,ACT
+491,http://umaenterainments.blogspot.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:57:33,"India, Karnataka, Bangalore",103.227.96.80,ACT
+492,http://turboshare.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:57:36,"India, Karnataka, Bangalore",103.227.96.80,ACT
+493,http://mallufmradio.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:57:39,"India, Karnataka, Bangalore",103.227.96.80,ACT
+494,http://movielist4u.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:57:41,"India, Karnataka, Bangalore",103.227.96.80,ACT
+495,http://crazyrockerz.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:57:42,"India, Karnataka, Bangalore",103.227.96.80,ACT
+496,http://rockerzadda.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:57:44,"India, Karnataka, Bangalore",103.227.96.80,ACT
+497,http://uniquwarez.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:57:45,"India, Karnataka, Bangalore",103.227.96.80,ACT
+498,http://movieswood.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:57:50,"India, Karnataka, Bangalore",103.227.96.80,ACT
+499,http://bergfiles.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:57:52,"India, Karnataka, Bangalore",103.227.96.80,ACT
+500,http://knforum.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:57:55,"India, Karnataka, Bangalore",103.227.96.80,ACT
+501,http://rapidtrend.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:57:57,"India, Karnataka, Bangalore",103.227.96.80,ACT
+502,http://warezlobby.org,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:58:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+503,http://fileurl.me,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:58:03,"India, Karnataka, Bangalore",103.227.96.80,ACT
+504,http://filmmasti.us,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:58:08,"India, Karnataka, Bangalore",103.227.96.80,ACT
+505,http://fixedmark.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:58:12,"India, Karnataka, Bangalore",103.227.96.80,ACT
+506,http://forumsdesitv.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:58:14,"India, Karnataka, Bangalore",103.227.96.80,ACT
+507,http://freedlforall.blogspot.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:58:16,"India, Karnataka, Bangalore",103.227.96.80,ACT
+508,http://full2moviez.blogspot.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:58:18,"India, Karnataka, Bangalore",103.227.96.80,ACT
+509,http://funztophits.blogspot.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:58:20,"India, Karnataka, Bangalore",103.227.96.80,ACT
+510,http://geo-super-live1.blogspot.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:58:22,"India, Karnataka, Bangalore",103.227.96.80,ACT
+511,http://ginbig.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:58:29,"India, Karnataka, Bangalore",103.227.96.80,ACT
+512,http://h33t.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:58:30,"India, Karnataka, Bangalore",103.227.96.80,ACT
+513,http://hinditvlinks4u.ch,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:58:36,"India, Karnataka, Bangalore",103.227.96.80,ACT
+514,http://idirectdownload.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:58:57,"India, Karnataka, Bangalore",103.227.96.80,ACT
+515,http://ifiles.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:59:03,"India, Karnataka, Bangalore",103.227.96.80,ACT
+516,http://indiancinezone.com,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:59:11,"India, Karnataka, Bangalore",103.227.96.80,ACT
+517,http://indiawebtv.net,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:59:13,"India, Karnataka, Bangalore",103.227.96.80,ACT
+518,http://isohunt.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:59:18,"India, Karnataka, Bangalore",103.227.96.80,ACT
+519,http://justdownloadmovies.blogspot.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:59:20,"India, Karnataka, Bangalore",103.227.96.80,ACT
+520,http://kat.ph,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:59:25,"India, Karnataka, Bangalore",103.227.96.80,ACT
+521,http://latestmoviecenter.blogspot.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:59:27,"India, Karnataka, Bangalore",103.227.96.80,ACT
+522,http://latestnewsstock.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:59:30,"India, Karnataka, Bangalore",103.227.96.80,ACT
+523,http://live.tamil.movies.oruwebsite.com,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:59:32,"India, Karnataka, Bangalore",103.227.96.80,ACT
+524,http://malaysiabay.org,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:59:37,"India, Karnataka, Bangalore",103.227.96.80,ACT
+525,http://moviejockey.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:59:40,"India, Karnataka, Bangalore",103.227.96.80,ACT
+526,http://moviejocky.in,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:59:42,"India, Karnataka, Bangalore",103.227.96.80,ACT
+527,http://movies.andhrawala.net,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:59:45,"India, Karnataka, Bangalore",103.227.96.80,ACT
+528,http://movies.hitorphat.in,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 15:59:47,"India, Karnataka, Bangalore",103.227.96.80,ACT
+529,http://movies.mblogi.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:00:08,"India, Karnataka, Bangalore",103.227.96.80,ACT
+530,http://moviesberg.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:00:15,"India, Karnataka, Bangalore",103.227.96.80,ACT
+531,http://moviesdownloads4free.blogspot.com,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:00:18,"India, Karnataka, Bangalore",103.227.96.80,ACT
+532,http://moviessharefb.blogspot.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:00:20,"India, Karnataka, Bangalore",103.227.96.80,ACT
+533,http://movreel.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:00:23,"India, Karnataka, Bangalore",103.227.96.80,ACT
+534,http://newtelugutorrents.blogspot.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:00:25,"India, Karnataka, Bangalore",103.227.96.80,ACT
+535,http://njoycinma.blogspot.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:00:27,"India, Karnataka, Bangalore",103.227.96.80,ACT
+536,http://onlinefreewatchmovies.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:00:40,"India, Karnataka, Bangalore",103.227.96.80,ACT
+537,http://online-movie-stream.blogspot.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:00:43,"India, Karnataka, Bangalore",103.227.96.80,ACT
+538,http://onlinemoviezfreee.blogspot.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:00:45,"India, Karnataka, Bangalore",103.227.96.80,ACT
+539,http://onlinewatchmoviesnow.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:00:48,"India, Karnataka, Bangalore",103.227.96.80,ACT
+540,http://oruwebsite-tamil.blogspot.in,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:00:50,"India, Karnataka, Bangalore",103.227.96.80,ACT
+541,http://osthe.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:00:55,"India, Karnataka, Bangalore",103.227.96.80,ACT
+542,http://pastebin.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:00:56,"India, Karnataka, Bangalore",103.227.96.80,ACT
+543,http://youku.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:01:06,"India, Karnataka, Bangalore",103.227.96.80,ACT
+544,http://360tamiltv.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:01:08,"India, Karnataka, Bangalore",103.227.96.80,ACT
+545,http://addshare.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:01:11,"India, Karnataka, Bangalore",103.227.96.80,ACT
+546,http://ahashare.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:01:16,"India, Karnataka, Bangalore",103.227.96.80,ACT
+547,http://alltamil.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:01:22,"India, Karnataka, Bangalore",103.227.96.80,ACT
+548,http://amaderforum.com,FIRST_RUN,BLOCKED,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:01:29,"India, Karnataka, Bangalore",103.227.96.80,ACT
+549,http://apden.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:01:30,"India, Karnataka, Bangalore",103.227.96.80,ACT
+550,http://btscene.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:01:36,"India, Karnataka, Bangalore",103.227.96.80,ACT
+551,http://click2down.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:01:39,"India, Karnataka, Bangalore",103.227.96.80,ACT
+552,http://desicorner.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:01:44,"India, Karnataka, Bangalore",103.227.96.80,ACT
+553,http://desifunz.net,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:01:48,"India, Karnataka, Bangalore",103.227.96.80,ACT
+554,http://desinapster.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:01:56,"India, Karnataka, Bangalore",103.227.96.80,ACT
+555,http://desirulez.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:02:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+556,http://desitara.com,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:02:08,"India, Karnataka, Bangalore",103.227.96.80,ACT
+557,http://desitorrents.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:02:12,"India, Karnataka, Bangalore",103.227.96.80,ACT
+558,http://desivideohub.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:02:16,"India, Karnataka, Bangalore",103.227.96.80,ACT
+559,http://dhloga.com,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:02:19,"India, Karnataka, Bangalore",103.227.96.80,ACT
+560,http://downloadprovider.me,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:02:23,"India, Karnataka, Bangalore",103.227.96.80,ACT
+561,http://downloadsmasti.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:02:45,"India, Karnataka, Bangalore",103.227.96.80,ACT
+562,http://filestube.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:02:50,"India, Karnataka, Bangalore",103.227.96.80,ACT
+563,http://footbo.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:03:27,"India, Karnataka, Bangalore",103.227.96.80,ACT
+564,http://freeaudiosongs.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:03:36,"India, Karnataka, Bangalore",103.227.96.80,ACT
+565,http://freeonlinemoviestore.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:03:46,"India, Karnataka, Bangalore",103.227.96.80,ACT
+566,http://freshtolly.in,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:03:52,"India, Karnataka, Bangalore",103.227.96.80,ACT
+567,http://fulldls.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:04:02,"India, Karnataka, Bangalore",103.227.96.80,ACT
+568,http://gaanam.net,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:04:04,"India, Karnataka, Bangalore",103.227.96.80,ACT
+569,http://garammagaram.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:04:06,"India, Karnataka, Bangalore",103.227.96.80,ACT
+570,http://gotamil.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:04:11,"India, Karnataka, Bangalore",103.227.96.80,ACT
+571,http://hqindianmovies.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:04:13,"India, Karnataka, Bangalore",103.227.96.80,ACT
+572,http://jaytamil.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:04:18,"India, Karnataka, Bangalore",103.227.96.80,ACT
+573,http://uploadable.ch,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:04:23,"India, Karnataka, Bangalore",103.227.96.80,ACT
+574,http://divxstage.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:04:27,"India, Karnataka, Bangalore",103.227.96.80,ACT
+575,http://nowvideo.sx,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:04:31,"India, Karnataka, Bangalore",103.227.96.80,ACT
+576,http://limetorrents.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:04:36,"India, Karnataka, Bangalore",103.227.96.80,ACT
+577,http://novamov.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:04:39,"India, Karnataka, Bangalore",103.227.96.80,ACT
+578,http://movshare.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:04:44,"India, Karnataka, Bangalore",103.227.96.80,ACT
+579,http://thetorrent.org,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:04:47,"India, Karnataka, Bangalore",103.227.96.80,ACT
+580,http://nowdownload.ch,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:04:52,"India, Karnataka, Bangalore",103.227.96.80,ACT
+581,http://sockshare.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:04:56,"India, Karnataka, Bangalore",103.227.96.80,ACT
+582,http://sumotorrent.sx,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:05:03,"India, Karnataka, Bangalore",103.227.96.80,ACT
+583,http://ryushare.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:05:06,"India, Karnataka, Bangalore",103.227.96.80,ACT
+584,http://1337x.to,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:05:08,"India, Karnataka, Bangalore",103.227.96.80,ACT
+585,http://filesbomb.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:05:13,"India, Karnataka, Bangalore",103.227.96.80,ACT
+586,http://seedpeer.me,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:05:19,"India, Karnataka, Bangalore",103.227.96.80,ACT
+587,http://ukcast.tv,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:05:23,"India, Karnataka, Bangalore",103.227.96.80,ACT
+588,http://ezcast.tv,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:05:28,"India, Karnataka, Bangalore",103.227.96.80,ACT
+589,http://xuscacamusca.se,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:06:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+590,http://filesfrog.net,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:06:07,"India, Karnataka, Bangalore",103.227.96.80,ACT
+591,http://glotorrents.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:06:14,"India, Karnataka, Bangalore",103.227.96.80,ACT
+592,http://stadium-live.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:06:18,"India, Karnataka, Bangalore",103.227.96.80,ACT
+593,http://tvembed.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:06:21,"India, Karnataka, Bangalore",103.227.96.80,ACT
+594,http://u-peak.me,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:06:24,"India, Karnataka, Bangalore",103.227.96.80,ACT
+595,http://crichd.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:06:27,"India, Karnataka, Bangalore",103.227.96.80,ACT
+596,http://zonasports.to,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:06:32,"India, Karnataka, Bangalore",103.227.96.80,ACT
+597,http://softsportstv.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:06:42,"India, Karnataka, Bangalore",103.227.96.80,ACT
+598,http://sports-x.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:06:45,"India, Karnataka, Bangalore",103.227.96.80,ACT
+599,http://sportz-hd.eu,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:07:07,"India, Karnataka, Bangalore",103.227.96.80,ACT
+600,http://totbed.edu,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:07:09,"India, Karnataka, Bangalore",103.227.96.80,ACT
+601,http://tvembed.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:07:17,"India, Karnataka, Bangalore",103.227.96.80,ACT
+602,http://tv-porinternet.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:07:22,"India, Karnataka, Bangalore",103.227.96.80,ACT
+603,http://vipbox.co,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:07:33,"India, Karnataka, Bangalore",103.227.96.80,ACT
+604,http://vtv4u.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:07:37,"India, Karnataka, Bangalore",103.227.96.80,ACT
+605,http://whoopwhoop.tv,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:07:42,"India, Karnataka, Bangalore",103.227.96.80,ACT
+606,http://cdn.playwire.com,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:07:45,"India, Karnataka, Bangalore",103.227.96.80,ACT
+607,http://embedupload.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:07:52,"India, Karnataka, Bangalore",103.227.96.80,ACT
+608,http://1fichier.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:07:57,"India, Karnataka, Bangalore",103.227.96.80,ACT
+609,http://crocko.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:08:04,"India, Karnataka, Bangalore",103.227.96.80,ACT
+610,http://uppit.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:08:06,"India, Karnataka, Bangalore",103.227.96.80,ACT
+611,http://solidfiles.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:08:13,"India, Karnataka, Bangalore",103.227.96.80,ACT
+612,http://bayfiles.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:08:53,"India, Karnataka, Bangalore",103.227.96.80,ACT
+613,http://tusfiles.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:08:57,"India, Karnataka, Bangalore",103.227.96.80,ACT
+614,http://bitshare.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:09:01,"India, Karnataka, Bangalore",103.227.96.80,ACT
+615,http://mega.co.nz,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:09:05,"India, Karnataka, Bangalore",103.227.96.80,ACT
+616,http://share-online.biz,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:09:11,"India, Karnataka, Bangalore",103.227.96.80,ACT
+617,http://ul.to,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:09:43,"India, Karnataka, Bangalore",103.227.96.80,ACT
+618,http://mightyupload.com,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:10:01,"India, Karnataka, Bangalore",103.227.96.80,ACT
+619,http://uploaded.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:10:04,"India, Karnataka, Bangalore",103.227.96.80,ACT
+620,http://freakshare.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:10:07,"India, Karnataka, Bangalore",103.227.96.80,ACT
+621,http://safelinking.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:10:14,"India, Karnataka, Bangalore",103.227.96.80,ACT
+622,http://terafile.co,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:10:18,"India, Karnataka, Bangalore",103.227.96.80,ACT
+623,http://fileom.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:10:25,"India, Karnataka, Bangalore",103.227.96.80,ACT
+624,http://d01.megasgares.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:10:32,"India, Karnataka, Bangalore",103.227.96.80,ACT
+625,http://dizzcloud.com,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:10:49,"India, Karnataka, Bangalore",103.227.96.80,ACT
+626,http://fileparadox.in,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:10:57,"India, Karnataka, Bangalore",103.227.96.80,ACT
+627,http://k2s.cc,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:11:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+628,http://sharerpo.com,FIRST_RUN,"UNREACHABLE, RequestException",Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:11:01,"India, Karnataka, Bangalore",103.227.96.80,ACT
+629,http://fcore.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:11:07,"India, Karnataka, Bangalore",103.227.96.80,ACT
+630,http://mega-vids.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:11:11,"India, Karnataka, Bangalore",103.227.96.80,ACT
+631,http://4upfiles.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:11:15,"India, Karnataka, Bangalore",103.227.96.80,ACT
+632,http://luckyshare.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:11:19,"India, Karnataka, Bangalore",103.227.96.80,ACT
+633,http://cloudyvideos.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:11:22,"India, Karnataka, Bangalore",103.227.96.80,ACT
+634,http://movzap.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:11:26,"India, Karnataka, Bangalore",103.227.96.80,ACT
+635,http://vertor.eu,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:11:30,"India, Karnataka, Bangalore",103.227.96.80,ACT
+636,http://nosvideo.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:11:34,"India, Karnataka, Bangalore",103.227.96.80,ACT
+637,http://vidxden.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:11:38,"India, Karnataka, Bangalore",103.227.96.80,ACT
+638,http://vidspot.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:11:42,"India, Karnataka, Bangalore",103.227.96.80,ACT
+639,http://freshvideo.net,FIRST_RUN,,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:11:48,"India, Karnataka, Bangalore",103.227.96.80,ACT
+640,http://vidbux.com,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:11:52,"India, Karnataka, Bangalore",103.227.96.80,ACT
+641,http://vidplay.net,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:11:56,"India, Karnataka, Bangalore",103.227.96.80,ACT
+642,http://vidup.me,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:12:00,"India, Karnataka, Bangalore",103.227.96.80,ACT
+643,http://video.tt,FIRST_RUN,CANT DECIDE,Atria Convergence Technologies Pvt. Ltd.,2014-12-29 16:12:04,"India, Karnataka, Bangalore",103.227.96.80,ACT
