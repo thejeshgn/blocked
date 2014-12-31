@@ -34,10 +34,14 @@ def checkForISP(isp, content):
 
 db = dataset.connect('sqlite:///./database/db.sqlite')
 URL_TABLE = db['URLS']
+first_row = True
 with open("MASTER_LIST.csv", 'rb') as csvfile:
     reader = csv.reader(csvfile, delimiter=',', quotechar='"')
     for row in reader:
-        line = row[0]
+        if first_row:
+            first_row  = False
+            continue
+        line = row[1]
         #each line is a link
         url_dict = {}
         url = str(line).strip()
