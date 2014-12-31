@@ -7,7 +7,7 @@ import dataset
 import time
 from datetime import datetime
 import json
-
+import csv
 RUN_NAME = "FIRST_RUN"
     
 #TODO: implement this using API
@@ -34,8 +34,10 @@ def checkForISP(isp, content):
 
 db = dataset.connect('sqlite:///./database/db.sqlite')
 URL_TABLE = db['URLS']
-with open("urls.txt") as f:
-    for line in f:
+with open("MASTER_LIST.csv", 'rb') as csvfile:
+    reader = csv.reader(csvfile, delimiter=',', quotechar='"')
+    for row in reader:
+        line = row[0]
         #each line is a link
         url_dict = {}
         url = str(line).strip()
