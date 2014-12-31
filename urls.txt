@@ -112,7 +112,7 @@ http://max-deportv.com
 http://megaviptv.net
 http://milloxtv.me
 http://nowwatchtvlive.com
-http://online–soccer.eu
+http://online-soccer.eu
 http://premier-league-live.net
 http://real-tv-sport.com
 http://soccertoall.net
@@ -388,7 +388,6 @@ http://telugunagar.com
 http://telugustudio.net
 http://telugu-theater.com
 http://teluguwala.com
-http://thepiratebay.ee
 http://thiruttuvcd.com
 http://thisis50.com
 http://tollytorrents.com
@@ -653,3 +652,4 @@ http://vidbux.com
 http://vidplay.net
 http://vidup.me
 http://video.tt
+http://thepiratebay.ee

@@ -1,0 +1,12 @@
+common:
+  database: "sqlite:///./database/db.sqlite"
+  prefix: status_log/
+  format: json
+
+exports:
+
+  - query: "select * from URLS"
+    filename: "log_{{ISP}}_{{RUN_NAME}}.json"
+    format: json
+
+
