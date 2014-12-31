@@ -10,6 +10,6 @@ exports:
     format: json
 
   - query: "select * from URLS"
-    filename: "csv/LOG_{{ISP_SHORT}}_{{RUN_NAME}}.json"
+    filename: "csv/LOG_{{ISP_SHORT}}_{{RUN_NAME}}.csv"
     format: csv
 
