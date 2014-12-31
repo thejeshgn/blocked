@@ -13,20 +13,26 @@ Lists are simple textfiles with urls. Name of the file becomes the source name. 
 - medianama2.txt - [By the article list published by Medianama](http://www.medianama.com/2014/07/223-world-cup-2014-472-websites-including-google-docs-blocked-in-india-following-sony-complaint/)
 - toi_govt_block_32_websites.txt - [List published by ToI](http://timesofindia.indiatimes.com/tech/tech-news/Pastebin-Dailymotion-Github-blocked-after-DoT-order-Report/articleshow/45701713.cms)
 
-## Create master list
-- Run python create_master_list.py
-- It will merge all the lists and create an unique list with source details. Called MASTER_LIST.csv
+## Master List
+[MASTER_LIST.csv](https://github.com/thejeshgn/blocked/blob/master/MASTER_LIST.csv) containts details about all the urls that has been blocked until now.
 
-## Logger
+
+
+## Code
+### Create master List
+- Run python create_master_list.py
+- It will merge all the lists and create an unique list with source details. Called [MASTER_LIST.csv](https://github.com/thejeshgn/blocked/blob/master/MASTER_LIST.csv)
+
+### Logger
 It goes through the MASTER_LIST.csv and checks if its been actually blocked by some rules. **Its work in progress**.
 
-## APIS
+### APIS
 - http://ipaddress.com/
 - http://www.whatismyip.com/
 - http://www.iplocation.net/
 - http://www.ip2location.com/demo
 
-## TODO
+### TODO
 - Make it based on rules
 - Implement API to get ISP details
 - Add the details about the source, date of addition etc
