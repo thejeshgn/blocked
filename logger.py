@@ -20,7 +20,8 @@ def getISPDetails():
     return log
 
 
-#TODO:get the rules for error_msgs
+#TODO: get the rules for blocking_rules.json and apply it instead of
+#TODO: hardcoding the rules like below
 def checkForISP(isp, content):
     soup = BeautifulSoup(content)
     title = soup.find('title')
