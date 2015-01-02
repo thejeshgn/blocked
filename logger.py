@@ -8,7 +8,8 @@ import time
 from datetime import datetime
 import json
 import csv
-RUN_NAME = "FIRST_RUN"
+import easygui
+
     
 #TODO: implement this using API
 def getISPDetails():
@@ -33,55 +34,71 @@ def checkForISP(isp, content):
     else:
         return "CANT DECIDE"
 
-db = dataset.connect('sqlite:///./database/db.sqlite')
-URL_TABLE = db['URLS']
-first_row = True
-with open("MASTER_LIST.csv", 'rb') as csvfile:
-    reader = csv.reader(csvfile, delimiter=',', quotechar='"')
-    for row in reader:
-        if first_row:
-            first_row  = False
-            continue
-        line = row[1]
-        #each line is a link
-        url_dict = {}
-        url = str(line).strip()
-        print "Trying ="+(url)
-        results = URL_TABLE.find_one(URL=url, RUN_NAME=RUN_NAME)
-        if results:
-            print "Exists"
-            continue
-        r = None
-        try:
-            r = requests.get(url)        
-        except requests.exceptions.Timeout:
-            # Maybe set up for a retry, or continue in a retry loop
-            url_dict["STATUS"]= "UNREACHABLE, Timeout"
-        except requests.exceptions.TooManyRedirects:
-            # Tell the user their URL was bad and try a different one
-            url_dict["STATUS"]= "UNREACHABLE, TooManyRedirects"
+def runRequests():
+    first_row = True
+    with open("MASTER_LIST.csv", 'rb') as csvfile:
+        reader = csv.reader(csvfile, delimiter=',', quotechar='"')
+        for row in reader:
+            if first_row:
+                first_row  = False
+                continue
+            line = row[1]
+            #each line is a link
+            url_dict = {}
+            url = str(line).strip()
+            print "Trying ="+(url)
+            results = URL_TABLE.find_one(URL=url, RUN_NAME=RUN_NAME)
+            if results:
+                print "Exists"
+                continue
+            r = None
+            try:
+                r = requests.get(url)        
+            except requests.exceptions.Timeout:
+                # Maybe set up for a retry, or continue in a retry loop
+                url_dict["STATUS"]= "UNREACHABLE, Timeout"
+            except requests.exceptions.TooManyRedirects:
+                # Tell the user their URL was bad and try a different one
+                url_dict["STATUS"]= "UNREACHABLE, TooManyRedirects"
 
-        except requests.exceptions.RequestException as e:
-            # catastrophic error. bail.
-            url_dict["STATUS"]= "UNREACHABLE, RequestException"
+            except requests.exceptions.RequestException as e:
+                # catastrophic error. bail.
+                url_dict["STATUS"]= "UNREACHABLE, RequestException"
 
-    
-        url_dict['URL']=url
-        isp = "Atria Convergence Technologies Pvt. Ltd."
-        if r:
-            if r.status_code == 200:
-                content = r.content
-                status = checkForISP(isp, content)
-                url_dict["STATUS"]=status            
-            else:
-                url_dict["STATUS"]= "UNREACHABLE, HTTP STATUS ="+str(r.status_code)
+        
+            url_dict['URL']=url
 
-        url_dict.update(getISPDetails())
-        start_time= datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-        url_dict["RUN_NAME"]=RUN_NAME
-        url_dict["RUN_TIME"]=start_time
-        print url_dict  
-        URL_TABLE.insert(url_dict)
-        db.commit()
-        time.sleep(1)
+            if r:
+                if r.status_code == 200:
+                    content = r.content
+                    status = checkForISP(isp['ISP'], content)
+                    url_dict["STATUS"]=status            
+                else:
+                    url_dict["STATUS"]= "UNREACHABLE, HTTP STATUS ="+str(r.status_code)
 
+            url_dict.update(isp)
+            start_time= datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+            url_dict["RUN_NAME"]=RUN_NAME
+            url_dict["RUN_TIME"]=start_time
+            print url_dict  
+            URL_TABLE.insert(url_dict)
+            db.commit()
+            time.sleep(1)
+
+if __name__ == "__main__":
+    RUN_NAME = "FIRST_RUN"
+    db = dataset.connect('sqlite:///./database/db.sqlite')
+    URL_TABLE = db['URLS']
+    isp = getISPDetails()
+
+    msg = "Is this a Re-run or Fresh Run?"
+    choices = ["Rerun","Fresh"]
+    reply = easygui.buttonbox(msg,  choices=choices)
+    if reply == "Fresh":
+        if easygui.ynbox('We will clear everything to do a fresh start. Continue?', 'Fresh Start', ('Yes', 'No')):
+            URL_TABLE.delete()
+            runRequests()
+        else:
+            easygui.msgbox("You seemed to be confused so ending here. Restart")
+    else:
+        runRequests()

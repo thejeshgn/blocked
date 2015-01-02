@@ -1,0 +1,4 @@
+requests
+BeautifulSoup
+dataset
+easygui
