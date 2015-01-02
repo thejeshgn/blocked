@@ -160,7 +160,8 @@ http://kanqiu.tv
 http://livesport4u.com
 http://livetv.sx
 http://meczelive.tv
-http://megatvonline.co (redirect to vertvaovivo.biz)
+http://megatvonline.co 
+http://vertvaovivo.biz
 http://epctv.com
 http://fancylive.com
 http://feed2all.eu
