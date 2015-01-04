@@ -2,6 +2,12 @@
 
 Blocked by ISPs in India
 
+##Install dependencies
+`git clone https://github.com/thejeshgn/blocked`
+`cd blocked`
+`sudo xargs -a requirements.txt pip install`
+
+
 ## MASTER_LIST.csv
 Master list of all the sites blocked in India. With the source and other details. Cretaed out of the lists. [MASTER_LIST.csv](https://github.com/thejeshgn/blocked/blob/master/MASTER_LIST.csv) .
 
