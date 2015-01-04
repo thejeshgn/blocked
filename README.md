@@ -4,7 +4,9 @@ Blocked by ISPs in India
 
 ##Install dependencies
 `git clone https://github.com/thejeshgn/blocked`
+
 `cd blocked`
+
 `sudo xargs -a requirements.txt pip install`
 
 
