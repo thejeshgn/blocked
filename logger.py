@@ -14,10 +14,15 @@ import easygui
 #TODO: implement this using API
 def getISPDetails():
     log = {}
-    log["ISP"]= "Atria Convergence Technologies Pvt. Ltd."
-    log["IP"]=  "103.227.96.80"
-    log["ISP_SHORT"]=  "ACT"    
+#    log["ISP"]= "Atria Convergence Technologies Pvt. Ltd."
+#    log["IP"]=  "103.227.96.80"
+#    log["ISP_SHORT"]=  "ACT"    
+#    log["IP_LOCATION"]= "India, Karnataka, Bangalore"
+    log["ISP"]= "Bharti Airtel Limited"
+    log["IP"]=  "106.216.197.16"
+    log["ISP_SHORT"]=  "Airtel4G"    
     log["IP_LOCATION"]= "India, Karnataka, Bangalore"
+
     return log
 
 
@@ -26,14 +31,21 @@ def getISPDetails():
 def checkForISP(isp, content):
     soup = BeautifulSoup(content)
     title = soup.find('title')
-    if title and len(title.contents) > 0:
-        if str(title.contents[0]) == "URL Blocked!":
+    
+    if isp == "Atria Convergence Technologies Pvt. Ltd.":
+        if title and len(title.contents) > 0:
+            if str(title.contents[0]) == "URL Blocked!":
+                return "BLOCKED"
+            else:
+                return "CANT DECIDE"
+        else:
+            return "CANT DECIDE"
+    if isp == "Bharti Airtel Limited":
+        if content == "This website/URL has been blocked until further notice either pursuant to Court orders or on the Directions issued by the Department of Telecommunications":
             return "BLOCKED"
         else:
             return "CANT DECIDE"
-    else:
-        return "CANT DECIDE"
-
+            
 def runRequests():
     first_row = True
     with open("MASTER_LIST.csv", 'rb') as csvfile:
@@ -47,7 +59,7 @@ def runRequests():
             url_dict = {}
             url = str(line).strip()
             print "Trying ="+(url)
-            results = URL_TABLE.find_one(URL=url, RUN_NAME=RUN_NAME)
+            results = URL_TABLE.find_one(URL=url, ISP_SHORT=isp['ISP_SHORT'], RUN_NAME=RUN_NAME)
             if results:
                 print "Exists"
                 continue

@@ -1,0 +1,1004 @@
+id,URL,RUN_NAME,STATUS,ISP,RUN_TIME,IP_LOCATION,IP,ISP_SHORT
+1,http://cdn.playwire.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-03 11:38:23,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+2,http://embedupload.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:38:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+3,http://1fichier.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:38:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+4,http://crocko.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:38:38,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+5,http://multiupload.nl,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:38:42,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+6,http://uppit.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:38:44,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+7,http://solidfiles.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:38:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+8,http://bayfiles.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:38:48,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+9,http://tusfiles.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:38:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+10,http://bitshare.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:38:50,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+11,http://muchshare.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:38:53,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+12,http://mega.co.nz,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:38:54,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+13,http://share-online.biz,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:38:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+14,http://sendspace.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:39:01,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+15,http://real4download.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:39:02,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+16,http://telugumphttp://biz,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:39:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+17,http://wapkafiles.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-03 11:39:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+18,http://telugumasthi.wapka.me,FIRST_RUN,,Bharti Airtel Limited,2015-01-03 11:39:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+19,http://telugustar.net,FIRST_RUN,,Bharti Airtel Limited,2015-01-03 11:39:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+20,http://myteluguwap.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:39:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+21,http://shttp://myteluguwap.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:39:14,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+22,http://filestube.to,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:39:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+23,http://ul.to,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:39:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+24,http://mightyupload.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:39:19,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+25,http://uploaded.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:39:20,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+26,http://freakshare.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:39:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+27,http://putlocker.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:39:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+28,http://uploadable.ch,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:39:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+29,http://safelinking.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:39:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+30,http://ultramegabit.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:39:35,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+31,http://terafile.co,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:39:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+32,http://fileom.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:39:38,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+33,http://d0http://megashares.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:39:39,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+34,http://dizzcloud.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:39:41,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+35,http://lumfile.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:39:43,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+36,http://fileparadox.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:39:45,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+37,http://nitrobits.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:44:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+38,http://filemonkey.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:44:08,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+39,http://fastshare.cz,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:44:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+40,http://keep2share.cc,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:44:12,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+41,http://k2s.cc,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:44:15,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+42,http://sharerepo.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:44:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+43,http://depositfiles.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:44:19,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+44,http://rapidshare.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:44:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+45,http://filerio.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:44:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+46,http://goo.gl,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:44:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+47,http://fcore.eu,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:44:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+48,http://anonfiles.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:46:39,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+49,http://adf.ly,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:46:43,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+50,http://megafiles.se,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:46:44,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+51,http://exashare.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:46:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+52,http://primeshare.tv,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:46:47,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+53,http://uploadc.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:46:48,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+54,http://epicshare.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:46:50,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+55,http://dwn.so,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:46:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+56,http://uploadhero.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:46:54,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+57,http://dfiles.eu,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:46:57,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+58,http://thefile.me,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:46:59,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+59,http://nosupload.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:47:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+60,http://uploadsat.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:47:02,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+61,http://shareflare.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:47:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+62,http://letitbit.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:47:05,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+63,http://filesfrog.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:47:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+64,http://unlimitzone.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:47:08,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+65,http://uploadrocket.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:47:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+66,http://secureupload.eu,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:47:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+67,http://hulkfile.eu,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:47:12,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+68,http://tusfiles.co.nz,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:47:14,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+69,http://filehoot.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:47:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+70,http://jumbofiles.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:47:19,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+71,http://usefile.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:47:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+72,http://clicktoview.org,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:47:39,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+73,http://180upload.nl,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-03 11:47:43,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+74,http://hitfile.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:47:45,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+75,http://easybytez.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-03 11:39:14,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+76,http://crisshare.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:39:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+77,http://vip-file.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:39:51,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+78,http://ufile.eu,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:39:53,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+79,http://jheberg.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:39:55,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+80,http://dl.free.fr,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:39:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+81,http://2shared.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:40:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+82,http://sharebeast.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:40:01,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+83,http://cramit.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:40:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+84,http://ryushare.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:40:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+85,http://teluguworld.asia,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:40:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+86,http://twap.in,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:40:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+87,http://vshare.eu,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:40:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+88,http://108.59.3.225:182,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:42:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+89,http://megafilesfactory.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:42:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+90,http://199.91.152.94,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:42:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+91,http://205.196.121.39,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:42:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+92,http://199.91.152.86,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:42:34,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+93,http://199.91.154.157,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:42:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+94,http://205.196.123.194,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:42:40,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+95,http://205.196.123.8,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:42:50,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+96,http://205.196.123.182,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:42:53,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+97,http://mhnwap.wapka.me,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:42:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+98,http://mhnwap.wapka.mobi,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:42:58,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+99,http://realitytelevisionportal.eu,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:43:02,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+100,http://dorabuzz.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:43:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+101,http://foncity.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:43:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+102,http://toonvideos.in,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:43:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+103,http://bestcartoon.wapka.mobi,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:43:15,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+104,http://wap.dorabuzz.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:43:19,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+105,http://playpanda.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:43:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+106,http://playhttp://net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:43:23,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+107,http://shared.sx,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:43:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+108,http://mega-vids.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:43:27,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+109,http://promptfile.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:43:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+110,http://4upfiles.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:43:38,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+111,http://filemoney.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:43:41,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+112,http://lemuploads.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:43:47,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+113,http://anysend.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:43:50,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+114,http://luckyshare.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:43:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+115,http://filedap.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:43:55,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+116,http://junocloud.me,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:43:57,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+117,http://filevice.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:44:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+118,http://v-vids.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:44:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+119,http://quickyshare.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:44:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+120,http://tumi.tv,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:44:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+121,http://mp4star.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:44:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+122,http://sockshare.ws,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:44:15,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+123,http://uploadcrazy.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:44:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+124,http://uploadboy.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:44:20,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+125,http://putlocker.ws,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:44:24,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+126,http://filenuke.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:44:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+127,http://docs.google.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:44:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+128,http://dotsemper.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:46:39,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+129,http://upload.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:46:51,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+130,http://cloudyvideos.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:46:53,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+131,http://v.youku.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:47:43,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+132,http://movzap.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:47:44,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+133,http://googlevideo.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:47:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+134,http://vertor.eu,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:47:48,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+135,http://dramautubes.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:47:51,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+136,http://nosvideo.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:47:54,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+137,http://vreer.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:50:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+138,http://vidxden.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:50:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+139,http://divxstage.eu,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:50:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+140,http://rapidvideo.tv,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:50:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+141,http://vidspot.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:50:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+142,http://freshvideo.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:50:12,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+143,http://vidbux.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:50:14,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+144,http://vidplay.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:50:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+145,http://vidup.me,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:50:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+146,http://video.tt,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:50:19,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+147,http://modovideo.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:50:20,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+148,http://youwatch.org,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:50:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+149,http://magnovideo.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:50:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+150,http://videobam.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:50:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+151,http://sharexvid.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:50:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+152,http://videoslasher.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:50:45,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+153,http://nowvideo.ch,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:50:47,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+154,http://donevideo.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:50:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+155,http://videozed.net,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:50:54,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+156,http://vidhog.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:53:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+157,http://vidzi.tv,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:53:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+158,http://streamin.to,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:53:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+159,http://thevideo.me,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:53:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+160,http://vidzbeez.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:53:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+161,http://divxpress.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:53:12,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+162,http://nubestream.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:53:15,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+163,http://divxstream.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:53:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+164,http://videobb.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:53:19,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+165,http://divxden.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:53:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+166,http://mixturecloud.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:53:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+167,http://divxstage.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:53:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+168,http://videowood.tv,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:53:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+169,http://hostingbulk.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:53:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+170,http://playit.pk,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:53:33,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+171,http://movpod.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:53:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+172,http://daclips.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:53:40,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+173,http://slickvid.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:53:42,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+174,http://videofun.me,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:53:43,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+175,http://video44.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:53:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+176,http://yucache.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:53:48,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+177,http://moevideos.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:53:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+178,http://videomega.tv,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:53:54,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+179,http://vidpaid.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:53:57,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+180,http://sharevid.org,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:53:59,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+181,http://zuzvideo.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:54:01,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+182,http://video.vidcrazy.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+183,http://videovalley.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:05,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+184,http://videoboxone.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:08,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+185,http://vidcrazy.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+186,http://vodu.ch,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+187,http://watchfreeinhd.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+188,http://veehd.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:19,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+189,http://movdivx.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+190,http://blip.tv,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+191,http://animeuploads.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+192,http://videohub.ws,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+193,http://hdwide.co,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:32,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+194,http://stormvid.co,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:34,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+195,http://neovid.me,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+196,http://hawkhd.me,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:38,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+197,http://streamland.cc,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:41,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+198,http://vidshark.ws,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:44,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+199,http://vidspace.cc,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+200,http://vids.bz,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:54:51,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+201,http://play.flashx.tv,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:54:53,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+202,http://videoweed.es,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:54:55,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+203,http://torrenthound.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:57:05,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+204,http://nowvideo.sx,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:57:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+205,http://limetorrents.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:57:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+206,http://novamov.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:57:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+207,http://torrentfunk.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:57:15,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+208,http://torrents.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:57:19,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+209,http://wapkafile.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:57:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+210,http://thepiratebay.org,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:57:23,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+211,http://torlock.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:57:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+212,http://movshare.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:57:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+213,http://unblockedpiratebay-proxy.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:58:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+214,http://thetorrent.org,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:58:01,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+215,http://torrentz.sx,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:58:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+216,http://thepiratebay.se.unblock.to,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:58:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+217,http://nowdownload.ch,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:58:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+218,http://sockshare.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 14:58:08,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+219,http://bittorrent.pm,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 14:58:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+220,http://uptobox.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 14:58:12,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+221,http://torrage.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:00:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+222,http://sumotorrent.sx,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:02:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+223,http://torrentdownload.ws,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:02:32,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+224,http://btmon.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:02:33,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+225,http://thepiratebay.se,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:02:35,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+226,http://1337x.to,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:02:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+227,http://bthunter.org,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:02:44,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+228,http://1337x.org,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:02:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+229,http://swankshare.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:02:48,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+230,http://1337xproxy.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:02:50,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+231,http://torrentz.dj,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:02:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+232,http://torrentcrazy.ee,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:02:58,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+233,http://filesbomb.in,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 15:03:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+234,http://torrentz.is,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:03:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+235,http://torrentz.am,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:03:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+236,http://kickassunblock.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:03:08,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+237,http://torrent.tm,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:03:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+238,http://oc.ohttp://vc,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:03:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+239,http://ineedtorrent.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:03:15,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+240,http://torrenthoundproxy.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:03:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+241,http://torcache.kickassunblock.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:03:18,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+242,http://kickasstor.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:03:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+243,http://streamupload.org,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:05:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+244,http://arabloads.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:05:33,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+245,http://torrentsnet.come.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:05:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+246,http://torrentz.to,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:05:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+247,http://3gparena.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:05:41,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+248,http://download-abc.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:06:02,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+249,http://filmsmaza.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:06:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+250,http://glotorrents.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:06:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+251,http://coolmoviez.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:06:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+252,http://62.210.201.55:81,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:08:24,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+253,http://fuckyourcrew.org,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 15:08:27,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+254,http://mimti1.moviesmobile.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:08:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+255,http://sandy1.moviesmobile.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:09:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+256,http://sandy3.moviesmobile.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:09:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+257,http://sandy4.moviesmobile.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:09:15,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+258,http://thepiratebay.mk,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:09:18,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+259,http://dev.torrentz.pro,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:09:20,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+260,http://torrentmoviemafia.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:09:23,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+261,http://1337x.pw,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:09:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+262,http://share1.moviesmobile.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:09:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+263,http://share2.moviesmobile.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:09:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+264,http://share3.moviesmobile.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:09:34,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+265,http://share4.moviesmobile.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:09:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+266,http://bayproxy.me,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:09:39,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+267,http://sarthaktv.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:09:45,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+268,http://p2p4ever.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:09:48,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+269,http://tny.cz,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:09:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+270,http://torrent-loco.com.ar,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:10:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+271,http://piraattilahti.org,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:10:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+272,http://punjabwap.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:10:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+273,http://torrent.ee,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:10:34,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+274,http://torrentz.asia,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:10:55,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+275,http://fromplay.org,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 15:10:59,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+276,http://proxybay.pw,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 15:11:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+277,http://vertor.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 15:11:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+278,http://katshore.org,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:52:35,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+279,http://nl.malaysiabay.org,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:52:40,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+280,http://demonoid.ph,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:52:44,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+281,http://kickasstorrents.come.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:52:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+282,http://putlocker.cz,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:52:48,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+283,http://proxybay.eu,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:52:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+284,http://3gparina.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:52:54,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+285,http://89.248.162.148,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:52:58,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+286,http://fromplay.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:53:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+287,http://etorrent.co.kr,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:53:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+288,http://fun4buddy.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:53:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+289,http://livetvindian.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:53:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+290,http://ontohinbd.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:53:14,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+291,http://pc.rdxhd.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:53:18,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+292,http://seedpeer.me,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:55:27,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+293,http://ukcast.tv,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 18:55:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+294,http://ezcast.tv,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:55:33,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+295,http://xuscacamusca.se,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:55:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+296,http://crichd.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:55:40,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+297,http://122.155.203.9,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:55:42,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+298,http://0dian8.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:55:44,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+299,http://114nba.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:55:45,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+300,http://360bo.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:55:47,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+301,http://51live.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:55:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+302,http://52waha.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:56:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+303,http://bf.5xzb.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:56:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+304,http://allsport-live.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:56:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+305,http://antibookers.ru,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:56:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+306,http://assistirtvonlineaovivo.tv,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:58:24,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+307,http://atdhe.eu/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:58:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+308,http://atdhe.so/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:58:27,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+309,http://atdhe.xxx/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:58:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+310,http://www.atdhehttp://net/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:58:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+311,http://www.azhibo.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:58:32,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+312,http://barcelonastream.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:58:34,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+313,http://www.coolsport.tv/schedule-coolsport-tv.html,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:58:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+314,http://www.tvole.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:58:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+315,http://www.drakulastream.eu/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:58:41,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+316,http://esportesaovivo.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:58:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+317,http://www.feed2all.eu/type/football.html,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:59:02,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+318,http://gofirstrowuk.eu/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:59:18,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+319,http://www.footballstreaming.info/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:59:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+320,http://www.frombar.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:59:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+321,http://www.futebolaovivo.net/inicio.php,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:59:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+322,http://www.online.futebolaovivogratis.org/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:59:35,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+323,http://gooool.org/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:59:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+324,http://www.rajangan.me/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 18:59:41,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+325,http://www.hahasport.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 18:59:43,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+326,http://hdzhibo.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:00:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+327,http://neolive.net/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:00:24,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+328,http://www.kanqiu.tv/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:00:45,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+329,http://livesport4u.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:01:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+330,http://livetv.sx/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:01:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+331,http://meczelive.tv/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:01:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+332,http://www.megatvonline.co/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:02:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+333,http://tvonline.megavertvonline.net/live/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:02:15,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+334,http://myp2p.pw/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:02:19,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+335,http://nogomya.ch/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:02:23,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+336,http://www.p2p-hd.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:02:44,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+337,http://qmzhibo.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:03:05,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+338,http://rntplayer.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:03:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+339,http://www.rojadirecta.me/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:03:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+340,http://www.seezb.net/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:03:41,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+341,http://www.sport.net/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:03:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+342,http://sport5online.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:04:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+343,http://sportlemon.ge/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:04:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+344,http://sportlemontv.eu/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:04:50,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+345,http://sportlive.lt/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:04:53,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+346,http://www.sportlv.info/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:05:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+347,http://www.sportp2p.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:05:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+348,http://www.stopstream.tv/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:05:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+349,http://thefirstrow.biz/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:05:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+350,http://www.feed4u.net/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:05:57,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+351,http://www.time4tv.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:06:19,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+352,http://torrent-tv.ru,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:06:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+353,http://tvaovivogratis.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:06:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+354,http://tvonlinexat.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:06:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+355,http://usagoals.tv,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:07:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+356,http://vipbox.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:07:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+357,http://vipboxuk.co,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:07:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+358,http://wasu.cn,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:07:53,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+359,http://www.wiziwig.tv/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:07:57,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+360,http://wszhibo.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:08:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+361,http://www.look-tvs.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:08:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+362,http://www.yaomtv.com.cn/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:08:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+363,http://www.zhiboche.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:10:51,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+364,http://zqnow.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:11:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+365,http://www.24livestreamtv.com/brazil-2014-fifa-world-cup-football-live-streaming-online-tv/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:11:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+366,http://acefootball.eu/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:11:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+367,http://al3ablive.info/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:11:41,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+368,http://atdhe.ru/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:11:45,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+369,http://atdhe.ge/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:12:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+370,http://atdhe.sx/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:12:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+371,http://atdhe.ws/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:12:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+372,http://bongdatructuyen.info/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:13:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+373,http://www.bongdatructuyen.vn/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:13:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+374,http://bongdatv.net/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:13:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+375,http://bongdaup.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:14:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+376,http://www.majika.biz/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:14:35,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+377,http://btvsports.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:14:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+378,http://canalesdetv.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:15:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+379,http://capodeportes.net/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:15:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+380,http://www.catedralhd.tk/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:15:42,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+381,http://www.cvhttp://eu/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:15:44,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+382,http://desistreams.tv/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:16:05,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+383,http://desportogratis.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:16:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+384,http://dinozap.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:16:48,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+385,http://drhtv.com.pl/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:16:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+386,http://epctv.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:17:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+387,http://zonasports.to/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:17:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+388,http://fancylive.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:17:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+389,http://feed2all.eu/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:17:58,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+390,http://www.firstrows.eu/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:18:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+391,http://firstrows.biz/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:18:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+392,http://firstrowsports.ge/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:18:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+393,http://footballhd.ru/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:19:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+394,http://footdirecthttp://com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:19:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+395,http://freefootball.ws/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:19:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+396,http://freehdspor.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:19:34,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+397,http://freelivefussball.de/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:19:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+398,http://freelivesport.eu/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:20:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+399,http://fsicrew.info/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:20:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+400,http://fussball-live-streams.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:20:24,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+401,http://futbolarg.tv/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:20:45,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+402,http://www.futbol-envivo.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:20:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+403,http://futbolsinlimites.pw/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:21:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+404,http://futebolaovivogratis.org/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:21:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+405,http://goatd.net/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:21:43,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+406,http://hdembed.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:22:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+407,http://funkeysports.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:22:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+408,http://hdsports.me/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:22:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+409,http://www.hdstreams.tv/index.php,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:22:50,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+410,http://iraqgoals.in/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:23:12,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+411,http://jokerplanete.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:23:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+412,http://lesoleildelanuit.wf/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:23:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+413,http://life-sport.org/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:23:58,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+414,http://livesportv.com/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:24:02,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+415,http://max-deportv.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:24:23,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+416,http://megaviptv.net/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:24:45,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+417,http://milloxtv.me/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:25:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+418,http://myp2p.cm/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:25:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+419,http://myp2p.ec/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:25:15,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+420,http://newsoccertv.com/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:25:18,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+421,http://nowwatchtvlive.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:25:39,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+422,http://onlinemoviesportsandtv.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:26:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+423,http://online-soccer.eu/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:26:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+424,http://portugaldesportivo.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:26:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+425,http://premier-league-live.net/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:26:27,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+426,http://qxzhibo.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:26:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+427,http://realtvsport.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:26:40,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+428,http://real-tv-sport.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:27:01,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+429,http://www.redzer.tv/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:27:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+430,http://s247.tv/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:27:27,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+431,http://sambasoccer.pw/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:27:48,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+432,http://skysport.tv/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:28:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+433,http://soccerembed.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:28:14,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+434,http://soccertoall.net/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:28:35,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+435,http://softsportstv.eu/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:28:40,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+436,http://www.sportsbeech.tv/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:28:43,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+437,http://sports-x.net/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:28:45,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+438,http://sportz-hd.eu/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:29:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+439,http://stadium-live.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:29:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+440,http://stream-foot.tv/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:29:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+441,http://streamhd.eu/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:29:38,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+442,http://streamking.org/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:29:59,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+443,http://todaytv.me/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:30:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+444,http://www.tvonlinepc.eu/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:30:05,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+445,http://totbet.net/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:30:08,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+446,http://tructiepbongda.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:30:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+447,http://tvembed.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:30:34,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+448,http://tvembed.eu/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:30:39,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+449,http://tv-link.in/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:31:01,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+450,http://tv-porinternet.com/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:31:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+451,http://tvsporthttp://info/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:31:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+452,http://u-peak.me/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:31:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+453,http://vipbox.co/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:31:12,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+454,http://vipracing.co.in/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:31:33,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+455,http://vtv4u.eu/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:31:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+456,http://whoopwhoop.tv/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:31:40,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+457,http://wiziwigfootball.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:32:01,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+458,http://imagessearchyahoo.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:32:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+459,http://imamalicom,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:32:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+460,http://rahulyadav.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:32:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+461,http://hinduhumanrights.org,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:33:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+462,http://nndh.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:33:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+463,http://bloodrovaltriped.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:33:33,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+464,http://merrimusings.typepad.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:33:54,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+465,http://thepiratescove.us,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:34:15,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+466,http://smeisp.cn,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:34:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+467,http://mobango.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:34:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+468,http://clickatell.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:34:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+469,http://commnicator.clickatell.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:34:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+470,http://dalitstan.org,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:34:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+471,http://mackers-world.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:35:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+472,http://hinduunity.org,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:35:34,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+473,http://mypetjawa.mu.nu,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:35:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+474,http://jonnyasp.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:35:57,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+475,http://google0.ingo,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:35:58,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+476,http://www.box.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:36:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+477,http://www.geocities.com/cpmimlpwg,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:36:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+478,http://www.geocities.com/cpmimlpwg/home.html,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:36:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+479,http://in.mobango.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:36:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+480,http://www.hinduunity.org,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:36:32,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+481,http://www.hinduunity.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:36:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+482,http://www.hinduunity.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:36:58,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+483,http://carc.org.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:37:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+484,http://www.yourfilehost.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:37:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+485,http://www.tv.tamilwire.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:37:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+486,http://www.savithabhabi.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:37:12,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+487,http://www.zone-h.org,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:37:14,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+488,http://zone-h.org,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:37:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+489,http://bloggernews.net/124029/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:37:20,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+490,http://www.bloggernews.net/124029,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:37:23,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+491,http://www.bloggernews.net/124029/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:37:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+492,http://www.google.co.in/#h1=en&source=hp&biw=1276&bih=843&q=dr+babasaheb+ambedkar+wallpaper&aq+4&aqi=g10&aql=&oq=dr+babas&gs_rfai=&fp=e791fe993fa412ba,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:37:27,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+493,http://www.submitlink.khatana.net/2010/09/jennifer-stano-is-engaged-to.html,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:37:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+494,http://www.cinemahd.net/desktop-enhancements/wallpaper/23945-wallpapers-beautiful-girl-wallpaper.html,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:37:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+495,http://www.chakpak.com/find/images/kamasutra-hindi-movie,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:37:35,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+496,http://www.result.khatana.net/2010/11/im-no-panty-girl-yana-gupta-wardrobe.html,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:37:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+497,http://www.facebook.com/pages/I-Hate-Ambedkar/172025102828076,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:37:40,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+498,http://www.arizona.indymedia.org/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:39:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+499,http://www.indybay.org,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:40:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+500,http://www.complaintsboard.com/complaints/narang-access-pvt-ltd-chtml?sort=ratea.,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:40:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+501,http://dl.btjunkie.org/torrent/Bodyguard-2011-Hindi-Movie-SCR-1CD-CAM-RIP-DAY/3381072ca0b09a7e175bc5cc10fbcc660645,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:40:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+502,http://satishsethadag.blogspot.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:40:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+503,http://satishseth.blogspot.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:40:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+504,http://in.linkedin.com/in/satishseth,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:40:12,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+505,https://profiles.google.com/103976341793285625231/about,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:40:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+506,http://satishsethswan.blogspot.com/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:40:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+507,http://in.linkedin.com/in/satishsethadag,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:40:20,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+508,http://digg.com/satishsethadag,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:40:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+509,http://digg.com/satishsethswan/submissions,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:40:24,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+510,http://in.linkedin.com/pub/satish-seth-investment/3a/144/931,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:40:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+511,http://www.blogger.com/profile/03550922789477190410,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:40:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+512,http://www.blogger-index.com/693616-satish-seth-adag,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:40:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+513,http://satishsethreliance.tumblr.com/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:40:34,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+514,http://twitter.com/satishsethswan,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:40:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+515,http://www.metacafe.com/watch/7230576/joining_a_dancing_class_benefits/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:40:40,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+516,http://www.myspace.com/video/satishsethswan/why-our-alsatian-dog-felt-restless-describes-satish-seth-swan/108188726,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:40:43,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+517,http://www.moneycontrol.com/stocks/cptmarket/searchpage/search.php?hl=3&companyname=Satish%20Seth&start=24,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:40:47,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+518,http://www.youtube.com/user/satishsatishseth?feature=mhee,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:40:50,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+519,http://www.tumblr.com/tagged/satish+seth,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:40:55,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+520,http://www.squidoo.com/satish-seth-at-his-adag-village,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:40:57,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+521,http://sites.google.com/site/satishsethreliance/journal-blog/satishsethrelianceonthisnicelittlerestaurantonhighway,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:41:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+522,http://www.blogger-index.com/search.php?s=satish+seth,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:41:02,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+523,http://satishsethadag.livejournal.com/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:41:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+524,http://satishsethreliance.tumblr.com/tagged/Satish_Seth,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:41:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+525,http://satishsethreliance.blog.com/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:41:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+526,http://parenting.feedables.com/story/8652112/Satish-Seth-Reliance-on-His-Dogs-for-Fun-and-Wisdom,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:41:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+527,http://sethadag.typepad.com/blog/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:41:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+528,http://www.myspace.com/satishsethreliance,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:41:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+529,http://in.linkedin.com/in/satishsethswan,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:41:19,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+530,http://in.linkedin.com/pub/dir/?first=Satish&last=Seth,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:41:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+531,http://satishsethreliance.blogspot.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:41:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+532,http://sites.google.com/site/satishsethreliance/journal-blog/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:41:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+533,http://digg.com/satishsethreliance,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:41:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+534,http://in.linkedin.com/in/satishsethreliance,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:41:32,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+535,http://satishsethadag.tumblr.com/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:41:34,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+536,http://www.facebook.com/public/Satish-Seth-Adag,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:41:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+537,http://www.metacafe.com/channels/satishsethswan/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:41:41,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+538,http://satishseth2gscamadagofficial.blogspot.com/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:41:43,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+539,http://satishsethadag.blogspot.com/2011/08/satish-seth-worships-adag-friends-with.html,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:41:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+540,http://www.metacafe.com/watch/7210362/satish_seth_at_his_adag_amma_daddy_as_gods_home_with_pets/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:41:57,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+541,http://www.metacafe.com/channels/Satish+Seth+Adag/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:42:01,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+542,http://satishsethreliance.blogspot.com/2011/09/satish-seth-reliance-on-his-adag-amma.html,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:42:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+543,http://satishsethadag.blogspot.com/2011/09/sa-seth-wants-to-know-algorithm-of.html,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:42:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+544,http://satishsethadag.blogspot.com/2011/09/adagmant-tommy-not-listening-to-satish.html,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:42:08,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+545,http://in.linkedin.com/in/satishseth2gscamadagofficial,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:42:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+546,http://www.metacafe.com/channels/Satish+Seth/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:42:14,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+547,http://www.bhandafodu.blogspot.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:42:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+548,http://www.bhandafodu.blogspot.com/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:42:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+549,http://bhandafodu.blogspot.com/,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:42:18,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+550,http://drashukumar.files.wordpress.com/2011/10/who_got_shivani_killed.doc,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:42:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+551,http://drashukumar.files.wordpress.com/2011/10/ashokarorashivaniarticle.doc,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:42:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+552,http://www.unipay2u.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:42:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+553,http://www.unipay2u-international.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:42:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+554,http://www.unipay2u-trading.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:42:33,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+555,http://www.unipaygateway2u.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:42:34,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+556,http://www.unigold2u.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:42:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+557,http://www.unicreation2u.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:42:38,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+558,http://www.uniexchange2u.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:42:40,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+559,http://www.visarev.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:42:42,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+560,http://www.unipay2u-marketing-private-limited.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:42:44,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+561,http://www.vergingoldint.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:42:45,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+562,http://www.ad2earn.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:42:48,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+563,http://www.barandbench.com/brief//1804/delhi-hc-seeks-response-from-supreme-court-lawyer-for-criticizing-judge-,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:42:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+564,http://www.silobreaker.com/delhi-hc-seeks-response-from-supreme-court-lawyer-for-criticizing-judge-52264948356772003931,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:42:54,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+565,http://www.facebook.com/#!/pages/this-dog-will-get-more-fans-than-syad-ali-shah-geelani/219014304783271,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:42:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+566,http://songs.pk,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:42:58,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+567,http://shariah4hind.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:43:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+568,http://hinduexistence.wordpress.comhttp://t0.gstatic.com/images?q=tbn:ANd9GeSCH-Hre979-1xz2ymqpEgMP9x3y8A_P26brhMRiqcui34cqs1s,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:43:02,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+569,http://facebook.com/#!sonniyya/photos,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:43:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+570,http://facebook.com/media/set/?set=a.100002627423113&type=3,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:43:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+571,http://hinduexistence.wordpress.com/tag/the-telegraph-kolkata/www.hinduexistence.wordpress.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:43:19,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+572,http://epaper.telegraphindia.com/PUBLICATION/TT/TT/2012/03/INDEX.SHTML,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:43:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+573,http://hinduexistence.wordpress.com/2012/03/oh-not-again.jpg,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:43:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+574,http://t0.gstatic.com/images?q=tbn:ANd9GcSCH-Hre979-1xz2ymqpEgMP9x3y8A_P26brhMRiqcui34cqs1s,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:43:24,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+575,http://facebook.com/#!media/set/?set=a.100002627423113&type=3,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:43:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+576,http://t0.gstatic.com/images?q=tbn:ANd9GcSCh-tire979-,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 19:43:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+577,http://google.co.in/search?q=telegraphkolkatat2/20march2012&hl=en&prmd=imvns&source=inms&tbm=isch&ei=YvBqT-WxFtHjrAe5s5mdAg&sa=X&oi=modelink&ct=mode&cd=2&ved=0CBUQAU0AQ&biw=1843&bih=959,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:43:33,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+578,http://22beats.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:43:54,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+579,http://absongs.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:44:15,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+580,http://apniisp.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:44:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+581,http://apunkabollywood.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:44:58,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+582,http://bollyextreme.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:45:19,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+583,http://bollymaza.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:45:40,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+584,http://bollymaza.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:46:01,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+585,http://bollywood-hits.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:46:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+586,http://bollywoodmpcom,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:46:24,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+587,http://bollywoodstop.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:46:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+588,http://coolgoose.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:47:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+589,http://dacoolsite.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:47:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+590,http://desihits.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:47:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+591,http://desifunda.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:48:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+592,http://desisong.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:48:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+593,http://dhakdhakradio.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:48:53,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+594,http://downloadming.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:49:14,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+595,http://freeindisongs.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:49:35,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+596,http://funmaza.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:49:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+597,http://songs.ind.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:50:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+598,http://karachimag.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:50:39,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+599,http://koolfree.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:51:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+600,http://lovepaki.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:51:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+601,http://mastmag.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:51:42,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+602,http://mobraja.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:52:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+603,http://mp3fundoo.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:52:24,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+604,http://mp3paradice.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:52:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+605,http://musicduniya.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:53:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+606,http://musiqbuzz.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:53:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+607,http://muskurahat.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:53:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+608,http://netmasty.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:54:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+609,http://pakfellows.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:54:32,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+610,http://paktimes.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:54:53,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+611,http://playlist.pk,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:55:14,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+612,http://punjabcentral.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:55:35,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+613,http://radioreloaded.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:55:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+614,http://radiorhythmz.fm,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:56:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+615,http://radiorocking.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:56:39,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+616,http://rkmania.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:57:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+617,http://songbox.pk,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:57:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+618,http://songsinn.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:57:42,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+619,http://songsnonstop.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:58:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+620,http://songsrack.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:58:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+621,http://songsrip.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:58:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+622,http://songzilla.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 19:58:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+623,http://topupmpcom,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:58:51,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+624,http://towncom,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:58:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+625,http://100india.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:59:14,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+626,http://musicindiaonline.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:59:35,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+627,http://aflatune.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 19:59:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+628,http://bharatlover.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:00:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+629,http://cckerala.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:00:38,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+630,http://centralmusiq.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:01:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+631,http://chimatamusic.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:01:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+632,http://desimusic.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:01:42,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+633,http://desishock.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:02:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+634,http://dhool.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:02:24,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+635,http://dishant.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:02:45,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+636,http://filmicafe.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:03:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+637,http://filmimusic.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:03:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+638,http://funcom,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:03:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+639,http://hindimirchi.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:03:50,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+640,http://sunomusic.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:04:12,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+641,http://telugufm.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:04:33,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+642,http://yolike.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:04:54,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+643,http://andhravillas.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:04:58,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+644,http://smashits.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:05:19,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+645,http://songdad.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:05:41,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+646,http://songslover.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:06:02,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+647,http://ragalahari.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:06:23,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+648,http://rameshmusic.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:06:44,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+649,http://freeplaymp3songdownload.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:07:05,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+650,http://freefundoo.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:07:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+651,http://desijammers.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:07:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+652,http://thenisai.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:07:51,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+653,http://mp3feelings.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:08:12,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+654,http://mazafm.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:08:33,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+655,http://kjyesudas.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:08:40,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+656,http://jaanfm.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:09:01,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+657,http://gr8click.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:09:23,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+658,http://funscrape.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:09:44,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+659,http://chirkutonorkut.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:10:05,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+660,http://tamilmaalai.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:10:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+661,http://tamilkey.info,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:10:47,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+662,http://vmusiq.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:11:08,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+663,http://sevanthi.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:11:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+664,http://tamilwire.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:11:35,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+665,http://a2ztamilsongs.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:11:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+666,http://mymaza.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:12:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+667,http://germantamilan.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:12:39,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+668,http://123music.mobi,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:13:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+669,http://desiden.mobi,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:13:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+670,http://longmpmobi,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:13:05,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+671,http://krazywap.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:13:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+672,http://mobile-zon.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:13:47,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+673,http://mympmobi,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:13:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+674,http://samwep.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:14:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+675,http://spicyfm.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:14:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+676,http://wapindia.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:14:53,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+677,http://wapmaza.mobi,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:15:14,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+678,http://waprocks.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:15:35,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+679,http://mobidreamz.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:15:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+680,http://waptamil.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:16:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+681,http://zinkwap.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:16:38,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+682,http://desibajao.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:17:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+683,http://gogrumogru.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:17:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+684,http://bollywood-hits.com/,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:17:42,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+685,http://songslover.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:18:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+686,http://www.facebook.com/pages/The-Real-Hindusm-FighterkuverDeepnayaningh/314528855253976,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:18:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+687,http://facebook.com/photo.php?fbid=2460992102663&set=0.314528855253976&type=1,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:18:15,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+688,http://facebook.com/photo.php?fbid=2460932541174%set=0.314528855253976&type=1#!photo.php?fbnid=2460904580475&set=0.314528855253976&type=1&permPage=1,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:18:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+689,http://facebook.com/pages/The-Real-Hindusm-FighterkuverDeepnayaningh/314528855253976,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:18:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+690,http://www.facebook.com/pages/The-Real-Hindusm-FighterkuverDeepnayaningh/314528855253976#!/photo.php?fbid=360284344011760&set=a.314528855253976&type=1&theater,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:18:23,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+691,http://facebook.com/pages/The-Real-Hindusm-FighterkuverDeepnayaningh/314528855253976#!/photo.php?fbid=360284344011760&set=a.314528855253976&type=1&theater,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:18:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+692,http://tamilcreation.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:18:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+693,http://tamilfms.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:19:01,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+694,http://tamilkuru.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:19:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+695,http://tamilmovierockers.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:19:08,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+696,http://tamilpeek.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:19:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+697,http://tamiltorrents.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:19:33,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+698,http://tamilvix.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:19:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+699,http://telugucinemascreen.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:19:42,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+700,http://telugunagar.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:20:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+701,http://telugustudio.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:20:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+702,http://telugu-theater.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:20:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+703,http://teluguwala.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:20:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+704,http://thepiratebay.ee,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:20:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+705,http://thiruttuvcd.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:20:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+706,http://thisiscom,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:20:23,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+707,http://tollytorrents.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:20:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+708,http://tollywoodandhra.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:20:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+709,http://tollyzone.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:20:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+710,http://torrent.cd,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:20:33,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+711,http://torrentbit.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:20:38,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+712,http://torrentcrazy.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:20:40,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+713,http://torrentdownloads.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:20:45,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+714,http://torrentdownloads.ws,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:20:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+715,http://torrentmatrix.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:20:54,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+716,http://torrentmonkeys.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:21:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+717,http://torrentr.eu,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:21:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+718,http://123tamilforum.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:21:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+719,http://180upload.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:21:12,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+720,http://3gpmovieswap.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:21:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+721,http://3gptamilmoviez.blogspot.in,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:21:15,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+722,http://adakoo.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:21:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+723,http://amonshare.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:21:20,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+724,http://andhragallerys.blogspot.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:21:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+725,http://apnadesitv.wordpress.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:21:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+726,http://apnaindia.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:21:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+727,http://ashoksmsking.blogspot.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:21:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+728,http://bitsnoop.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:21:32,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+729,http://bittorrent.am,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:21:35,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+730,http://bittrend.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:21:40,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+731,http://bulkdownloadz.blogspot.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:21:42,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+732,http://cinegallerys.blogspot.in,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:21:44,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+733,http://cinehall.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:21:47,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+734,http://cinemas-123andrawala.blogspot.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:21:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+735,http://cinerak.blogspot.in,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:21:51,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+736,http://cinereviewblogspot.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:21:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+737,http://coolgobo.blogspot.in,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:21:54,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+738,http://datacommunicationblogspot.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:21:55,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+739,http://depiraatbaai.be,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:21:59,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+740,http://desibuffer.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:22:02,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+741,http://downloadsguru.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:22:05,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+742,http://downloadsinglelinkmovies.blogspot.in,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:22:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+743,http://entertainment-blast.blogspot.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:22:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+744,http://etamilcine.blogspot.in,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:22:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+745,http://extratorrent.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:22:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+746,http://fenopy.eu,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:22:19,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+747,http://techsatish.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:22:24,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+748,http://telugumovieslive.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:22:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+749,http://telugustudio4u.blogspot.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:22:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+750,http://thalathalapathy.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:22:32,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+751,http://tollybolly.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:22:34,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+752,http://tollywoodbolly.blogspot.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:22:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+753,http://torentilo.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:22:40,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+754,http://torrent.dl4all.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:22:41,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+755,http://torrentdeluxe.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:22:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+756,http://torrenthouseblogspot.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:22:47,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+757,http://torrenthouseblogspot.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:22:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+758,http://torrents.sumotorrent.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:25:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+759,http://torrents.thepiratebay.se,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:25:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+760,http://torrentz.eu,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:25:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+761,http://tpb.piratenpartij.nl,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:25:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+762,http://tvcroom.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:25:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+763,http://uyirisai.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:25:33,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+764,http://videos.videomasti.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:25:35,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+765,http://videos2movies.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:25:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+766,http://vimeo.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:25:41,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+767,http://vishnu4s.blogspot.in,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:25:43,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+768,http://watchinvideobb.blogspot.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:25:45,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+769,http://watchinvideozer.blogspot.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:25:47,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+770,http://webfariscom,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:25:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+771,http://torrentroom.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:25:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+772,http://torrentsland.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:25:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+773,http://torrentssection.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:25:57,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+774,http://torrentsstate.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:25:59,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+775,http://torrenttracker.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:26:01,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+776,http://torrentv.org,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:26:05,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+777,http://torrentz.me,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:26:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+778,http://torrentzap.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:26:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+779,http://uyirvani.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:26:12,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+780,http://videoembed.us,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:26:14,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+781,http://videozer.om,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:26:15,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+782,http://vijaytamil.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:26:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+783,http://youbittorrent.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:26:43,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+784,http://zimbio.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:26:47,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+785,http://zustmovies.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:26:50,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+786,http://yampblog.blogspot.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:26:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+787,http://yourbittorrent.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:26:55,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+788,http://megavideo.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:27:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+789,http://torrentrockerz.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:27:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+790,http://lazydesis.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:27:24,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+791,http://indiancinemafans.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:27:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+792,http://da-pirates.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:27:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+793,http://spicybeats.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:27:32,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+794,http://indianmasti.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:27:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+795,http://videomasti.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:27:39,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+796,http://torrentz.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:27:41,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+797,http://extreemsongs.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:27:45,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+798,http://legendarydevils.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:29:54,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+799,http://umaenterainments.blogspot.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:29:57,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+800,http://turboshare.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:30:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+801,http://mallufmradio.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:30:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+802,http://movielist4u.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:30:05,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+803,http://crazyrockerz.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:30:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+804,http://rockerzadda.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:30:08,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+805,http://uniquwarez.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:30:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+806,http://movieswood.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:30:14,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+807,http://bergfiles.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:30:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+808,http://knforum.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:30:19,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+809,http://rapidtrend.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:30:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+810,http://warezlobby.org,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:30:24,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+811,http://fileurl.me,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:30:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+812,http://filmmasti.us,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:30:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+813,http://fixedmark.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:30:32,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+814,http://forumsdesitv.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:30:34,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+815,http://freedlforall.blogspot.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:30:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+816,http://full2moviez.blogspot.in,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:30:38,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+817,http://funztophits.blogspot.in,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:30:42,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+818,http://geo-super-liveblogspot.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:30:44,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+819,http://ginbig.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:30:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+820,http://h33t.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:30:51,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+821,http://hinditvlinks4u.ch,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:30:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+822,http://idirectdownload.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:31:17,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+823,http://ifiles.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:31:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+824,http://indiancinezone.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:31:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+825,http://indiawebtv.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:31:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+826,http://isohunt.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:31:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+827,http://justdownloadmovies.blogspot.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:31:33,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+828,http://kat.ph,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:31:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+829,http://latestmoviecenter.blogspot.in,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:31:39,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+830,http://latestnewsstock.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:31:43,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+831,http://live.tamil.movies.oruwebsite.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:31:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+832,http://malaysiabay.org,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:31:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+833,http://moviejockey.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:31:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+834,http://moviejocky.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:31:53,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+835,http://movies.andhrawala.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:31:55,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+836,http://movies.hitorphat.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:31:57,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+837,http://movies.mblogi.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:32:18,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+838,http://moviesberg.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:32:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+839,http://moviesdownloads4free.blogspot.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:32:24,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+840,http://moviessharefb.blogspot.in,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:32:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+841,http://movreel.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:32:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+842,http://newtelugutorrents.blogspot.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:32:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+843,http://njoycinma.blogspot.in,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:32:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+844,http://nowwatchtvlive.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:32:53,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+845,http://onlinefreewatchmovies.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:33:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+846,http://online-movie-stream.blogspot.in,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:33:12,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+847,http://onlinemoviezfreee.blogspot.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:33:15,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+848,http://onlinewatchmoviesnow.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:33:18,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+849,http://oruwebsite-tamil.blogspot.in,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:33:20,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+850,http://osthe.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:33:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+851,http://pastebin.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:33:27,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+852,http://youku.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:33:38,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+853,http://360tamiltv.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:33:40,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+854,http://addshare.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:33:43,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+855,http://ahashare.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:33:48,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+856,http://alltamil.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:33:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+857,http://amaderforum.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:33:57,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+858,http://apden.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:33:59,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+859,http://btscene.eu,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:34:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+860,http://click2down.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:34:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+861,http://desicorner.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:34:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+862,http://desifunz.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:34:15,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+863,http://desinapster.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:34:23,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+864,http://desirulez.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:34:27,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+865,http://desitara.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:34:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+866,http://desitorrents.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:34:32,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+867,http://desivideohub.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:34:35,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+868,http://dhloga.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:34:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+869,http://downloadprovider.me,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:34:41,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+870,http://downloadsmasti.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:35:02,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+871,http://filestube.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:35:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+872,http://footbo.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:37:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+873,http://freeaudiosongs.in,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:37:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+874,http://freeonlinemoviestore.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:37:27,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+875,http://freshtolly.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:37:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+876,http://fulldls.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:37:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+877,http://gaanam.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:37:34,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+878,http://garammagaram.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:37:35,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+879,http://gotamil.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:37:39,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+880,http://hqindianmovies.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:37:42,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+881,http://jaytamil.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:37:47,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+882,http://stadium-live.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:37:50,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+883,http://tvembed.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:37:53,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+884,http://u-peak.me,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:37:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+885,http://zonasports.to,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:37:58,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+886,http://softsportstv.eu,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:38:02,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+887,http://sports-x.net,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:38:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+888,http://sportz-hd.eu,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:38:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+889,http://totbed.edu,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:38:26,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+890,http://tvembed.eu,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:38:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+891,http://tv-porinternet.com,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:38:33,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+892,http://vipbox.co,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:38:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+893,http://vtv4u.eu,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:38:38,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+894,http://whoopwhoop.tv,FIRST_RUN,,Bharti Airtel Limited,2015-01-05 20:38:40,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+895,http://bayfiles.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:40:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+896,http://d01.megasgares.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:40:51,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+897,http://sharerpo.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:40:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+898,http://nosvideo.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:40:55,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+899,http://barcelonastream.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:41:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+900,http://hdembed.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:41:38,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+901,http://s247.tv,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:41:59,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+902,http://sambasoccer.pw,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:42:20,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+903,http://skysports.tv,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:42:24,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+904,http://kickasstorrents.com.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:42:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+905,http://desistreams.tv,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:42:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+906,http://streamhd.eu,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:43:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+907,http://atdhe.eu,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:43:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+908,http://atdhe.so,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:43:50,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+909,http://atdhe.xxx,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:44:11,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+910,http://atdhe24.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:44:32,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+911,http://azhibo.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:44:53,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+912,http://coolsport.tv,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:45:14,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+913,http://tvole.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:45:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+914,http://drakulastream.eu,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:45:57,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+915,http://esportesaovivo.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:46:18,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+916,http://feed2all.eu,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:46:39,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+917,http://gooool.org,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:47:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+918,http://hahasport.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:47:22,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+919,http://neolive.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:47:43,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+920,http://kanqiu.tv,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:48:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+921,http://livesport4u.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:48:25,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+922,http://livetv.sx,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:48:46,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+923,http://meczelive.tv,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:49:08,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+924,http://megatvonline.co,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:49:29,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+925,http://vertvaovivo.biz,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 20:49:32,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+926,http://epctv.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:49:53,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+927,http://fancylive.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:50:14,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+928,http://firstrows.biz,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:50:36,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+929,http://firstrowsports.ge,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:50:57,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+930,http://footballhd.ru,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:51:18,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+931,http://freefootball.ws,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:51:39,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+932,http://freelivefussball.de,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:52:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+933,http://freelivesport.eu,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:52:21,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+934,http://futbolarg.tv,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:52:43,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+935,http://footballsinlimites.pw,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:52:44,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+936,http://goatd.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:53:05,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+937,http://funkeysports.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:53:27,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+938,http://hdstreams.tv,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:53:48,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+939,http://iraqgoals.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:54:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+940,http://lesoleildelanuit.wf,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:54:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+941,http://life-sport.org,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:54:51,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+942,http://max-deportv.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:55:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+943,http://megaviptv.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:55:34,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+944,http://milloxtv.me,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:55:55,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+945,http://online--soccer.eu,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:56:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+946,http://premier-league-live.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:56:37,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+947,http://real-tv-sport.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:56:59,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+948,http://soccertoall.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:57:20,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+949,http://p2p-hd.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:57:41,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+950,http://qmzhibo.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:58:02,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+951,http://rojadirecta.me,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:58:23,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+952,http://sport5online.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:58:45,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+953,http://sportiemon.ge,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:58:48,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+954,http://sportlemontv.eu,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:59:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+955,http://sportp2p.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:59:30,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+956,http://feed4u.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 20:59:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+957,http://24livestreamtv.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:00:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+958,http://atdhe.ge,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:00:34,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+959,http://atdhe.sx,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:00:55,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+960,http://atdhe.ws,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:01:16,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+961,http://bongdatructuyen.info,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:01:38,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+962,http://bongdatructuyen.vn,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:01:59,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+963,http://bongdatv.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:02:20,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+964,http://bongdaup.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:02:41,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+965,http://majika.biz,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:03:02,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+966,http://btvsports.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:03:23,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+967,http://capodeportes.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:03:45,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+968,http://catedralhd.tk,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:04:06,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+969,http://desportogratis.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:04:27,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+970,http://dinozap.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:04:48,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+971,http://streamking.org,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:05:09,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+972,http://tructiepbongda.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:05:31,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+973,http://tv-link.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:05:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+974,http://vipracing.co.in,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:06:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+975,https://justpaste.it/,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:06:18,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+976,http://hastebin.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:06:20,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+977,http://codepad.com,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:06:41,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+978,http://pastie.org,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:06:43,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+979,http://pastee.org,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:06:47,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+980,http://paste2.org,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:06:49,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+981,http://slexy.org,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:06:51,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+982,http://paste4btc.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:06:54,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+983,http://0bin.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:06:56,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+984,http://heypasteit.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:06:59,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+985,http://sourceforge.net/projects/phorkie,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:07:03,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+986,http://atnsoft.com/textpaster,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:07:07,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+987,"http://archive,org",FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:07:08,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+988,http://www.hpage.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:07:10,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+989,http://www.ipage.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:07:13,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+990,http://www.webs.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:07:15,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+991,http://www.weebly.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:07:18,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+992,http://www.000webhost.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:07:20,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+993,http://www.freehosting.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:07:24,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+994,http://www.dailymotion.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:07:28,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+995,https://gist.github.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:07:32,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+996,http://www.ipaste.eu,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:07:34,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+997,http://thesnippetapp.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:07:38,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+998,http://snipt.net,FIRST_RUN,"UNREACHABLE, RequestException",Bharti Airtel Limited,2015-01-05 21:07:44,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+999,https://github.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:07:52,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+1000,http://snipplr.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:07:54,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+1001,http://termbin.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:07:57,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+1002,http://www.snippetsource.net,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:08:00,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
+1003,https://cryptbin.com,FIRST_RUN,CANT DECIDE,Bharti Airtel Limited,2015-01-05 21:08:04,"India, Karnataka, Bangalore",106.216.197.16,Airtel4G
