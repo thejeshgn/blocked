@@ -1,6 +1,6 @@
 # Blocked
 
-Blocked by ISPs in India
+List of websites blocked by ISPs in India
 
 ##Install dependencies
 `git clone https://github.com/thejeshgn/blocked`
@@ -28,16 +28,3 @@ Lists are simple textfiles with urls. Name of the file becomes the source name. 
 - Run python create_master_list.py
 - It will merge all the lists and create an unique list with source details. Called [MASTER_LIST.csv](https://github.com/thejeshgn/blocked/blob/master/MASTER_LIST.csv)
 
-### Logger
-It goes through the MASTER_LIST.csv and checks if its been actually blocked by some rules. **Its work in progress**.
-
-### APIS
-- http://ipaddress.com/
-- http://www.whatismyip.com/
-- http://www.iplocation.net/
-- http://www.ip2location.com/demo
-
-### TODO
-- Make it based on rules
-- Implement API to get ISP details
-- Add the details about the source, date of addition etc
