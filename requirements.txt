@@ -1,4 +1,1 @@
-requests
-BeautifulSoup
 dataset
-easygui

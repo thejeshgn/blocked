@@ -27,4 +27,5 @@ Lists are simple textfiles with urls. Name of the file becomes the source name. 
 ### Create master List
 - Run python create_master_list.py
 - It will merge all the lists and create an unique list with source details. Called [MASTER_LIST.csv](https://github.com/thejeshgn/blocked/blob/master/MASTER_LIST.csv)
+- I plan to add other features and henec a script to merge. 
 

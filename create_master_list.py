@@ -34,9 +34,8 @@ def exportMasterList():
     result = db['MASTER_LIST'].all()
     dataset.freeze(result, format='csv', filename='MASTER_LIST.csv')
 
-def updateSiteDetails():
-    results = db['MASTER_LIST'].all()
-    #for each get the page title and save it
-    for result in results:
-        
+
+if __name__ == "__main__":
+    loadLists()
+    exportMasterList()        
     
