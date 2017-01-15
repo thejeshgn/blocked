@@ -12,7 +12,7 @@ db = dataset.connect('sqlite:///./database/db.sqlite')
 MASTER_LIST= db['MASTER_LIST']
 
 def loadLists():    
-    for files in ['blocked-websites-MSM-world-cup.txt', 'kafila_maste_list.txt', 'medianama2.txt', 'toi_govt_block_32_websites.txt']:
+    for files in ['blocked-websites-MSM-world-cup.txt', 'kafila_maste_list.txt', 'medianama2.txt', 'toi_govt_block_32_websites.txt','india_music_industry_104_sites.txt']:
         file_path = "./lists/"+files
         with open(file_path) as f:
             for line in f:

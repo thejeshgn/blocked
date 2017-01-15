@@ -21,6 +21,7 @@ Lists are simple textfiles with urls. Name of the file becomes the source name. 
 - medianama2.txt - [By the article list published by Medianama](http://www.medianama.com/2014/07/223-world-cup-2014-472-websites-including-google-docs-blocked-in-india-following-sony-complaint/)
 - toi_govt_block_32_websites.txt - [List published by ToI](http://timesofindia.indiatimes.com/tech/tech-news/Pastebin-Dailymotion-Github-blocked-after-DoT-order-Report/articleshow/45701713.cms)
 - yourbroadband.txt - [List published by Youbroadband](http://www.youbroadband.in/List%20of%20Blocked%20Websites-Regulatory%20Guidelines%20&%20HighCourt%20Orders.pdf)
+- india_music_industry_104_sites.txt - [The Indian Music Industry, a consortium of 142 music companies, announced today that it has obtained orders from the Calcutta High Court directing all Internet Service Providers (387 in all) to block access to 104 music sites from India.](http://www.medianama.com/2012/03/223-list-of-104-music-sites-that-the-indian-music-industry-wants-blocked/)
 
 
 ## Code
