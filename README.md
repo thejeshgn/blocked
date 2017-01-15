@@ -1,13 +1,6 @@
 # Blocked
 
-List of websites blocked by ISPs in India
-
-##Install dependencies
-`git clone https://github.com/thejeshgn/blocked`
-
-`cd blocked`
-
-`sudo xargs -a requirements.txt pip install`
+Crowdsourced list of all the websites blocked by ISPs in India. 
 
 
 ## MASTER_LIST.csv
@@ -30,3 +23,10 @@ Lists are simple textfiles with urls. Name of the file becomes the source name. 
 - It will merge all the lists and create an unique list with source details. Called [MASTER_LIST.csv](https://github.com/thejeshgn/blocked/blob/master/MASTER_LIST.csv)
 - I plan to add other features and henec a script to merge. 
 
+
+### Install dependencies
+`git clone https://github.com/thejeshgn/blocked`
+
+`cd blocked`
+
+`sudo xargs -a requirements.txt pip install`

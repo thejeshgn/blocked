@@ -30,5 +30,3 @@ http://snipplr.com
 http://termbin.com
 http://www.snippetsource.net
 https://cryptbin.com
-
-
