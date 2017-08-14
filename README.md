@@ -16,6 +16,8 @@ Lists are simple textfiles with urls. Name of the file becomes the source name. 
 - youbroadband.txt - [List published by Youbroadband](http://www.youbroadband.in/List%20of%20Blocked%20Websites-Regulatory%20Guidelines%20&%20HighCourt%20Orders.pdf)
 - india_music_industry_104_sites.txt - [The Indian Music Industry, a consortium of 142 music companies, announced today that it has obtained orders from the Calcutta High Court directing all Internet Service Providers (387 in all) to block access to 104 music sites from India.](http://www.medianama.com/2012/03/223-list-of-104-music-sites-that-the-indian-music-industry-wants-blocked/)
 - madras_court_order_kabali_forum_sites.txt, madras_court_order_kabali_streaming_sites.txt, madras_court_order_kabali_torrent_sites.txt [As per Madras High Court order pertaining to Kabaali](http://www.actcorp.in/madras_court_order-kabali.pdf)
+- court_order_jab_harry_met_sejal.txt [List from Madras high court order wrt Harry Met Sejal](https://www.medianama.com/wp-content/uploads/Court-Order-JAB-HARRY-MET-SEJAL.pdf)
+- court_order_lipstick_under_my_burkha.txt [List from Madras high court order wrt Lipstick Under My Burkha](https://www.medianama.com/wp-content/uploads/Court-Order-Lipstick-Under-My-Burkha.pdf)
 
 
 
